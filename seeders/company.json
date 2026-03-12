@@ -1,0 +1,4791 @@
+{
+  "total": 957,
+  "data": [
+    {
+      "kode": "AADI",
+      "nama": "PT Adaro Andalan Indonesia Tbk",
+      "tanggal": "05 Des 2024"
+    },
+    {
+      "kode": "AALI",
+      "nama": "Astra Agro Lestari Tbk",
+      "tanggal": "09 Des 1997"
+    },
+    {
+      "kode": "ABBA",
+      "nama": "Mahaka Media Tbk",
+      "tanggal": "03 Apr 2002"
+    },
+    {
+      "kode": "ABDA",
+      "nama": "Asuransi Bina Dana Arta Tbk",
+      "tanggal": "06 Jul 1989"
+    },
+    {
+      "kode": "ABMM",
+      "nama": "ABM Investama Tbk",
+      "tanggal": "06 Des 2011"
+    },
+    {
+      "kode": "ACES",
+      "nama": "PT Aspirasi Hidup Indonesia Tbk",
+      "tanggal": "06 Nov 2007"
+    },
+    {
+      "kode": "ACRO",
+      "nama": "PT Samcro Hyosung Adilestari Tbk.",
+      "tanggal": "11 Jan 2024"
+    },
+    {
+      "kode": "ACST",
+      "nama": "PT Acset Indonusa Tbk.",
+      "tanggal": "24 Jun 2013"
+    },
+    {
+      "kode": "ADCP",
+      "nama": "PT Adhi Commuter Properti Tbk",
+      "tanggal": "21 Mei 2021"
+    },
+    {
+      "kode": "ADES",
+      "nama": "Akasha Wira International Tbk Tbk",
+      "tanggal": "13 Jun 1994"
+    },
+    {
+      "kode": "ADHI",
+      "nama": "PT Adhi Karya (Persero) Tbk.",
+      "tanggal": "18 Mar 2004"
+    },
+    {
+      "kode": "ADMF",
+      "nama": "Adira Dinamika Multi Finance Tbk",
+      "tanggal": "31 Mar 2004"
+    },
+    {
+      "kode": "ADMG",
+      "nama": "Polychem Indonesia Tbk",
+      "tanggal": "20 Okt 1993"
+    },
+    {
+      "kode": "ADMR",
+      "nama": "PT Alamtri Minerals Indonesia Tbk",
+      "tanggal": "03 Jan 2022"
+    },
+    {
+      "kode": "ADRO",
+      "nama": "Alamtri Resources Indonesia Tbk",
+      "tanggal": "16 Jul 2008"
+    },
+    {
+      "kode": "AEGS",
+      "nama": "PT Anugerah Spareparts Sejahtera Tbk.",
+      "tanggal": "11 Sep 2023"
+    },
+    {
+      "kode": "AGAR",
+      "nama": "PT Asia Sejahtera Mina Tbk",
+      "tanggal": "02 Des 2019"
+    },
+    {
+      "kode": "AGII",
+      "nama": "PT Samator Indo Gas Tbk",
+      "tanggal": "28 Sep 2016"
+    },
+    {
+      "kode": "AGRO",
+      "nama": "PT Bank Raya Indonesia Tbk",
+      "tanggal": "08 Agt 2003"
+    },
+    {
+      "kode": "AGRS",
+      "nama": "PT Bank IBK Indonesia Tbk.",
+      "tanggal": "22 Des 2014"
+    },
+    {
+      "kode": "AHAP",
+      "nama": "Asuransi Harta Aman Pratama Tbk",
+      "tanggal": "14 Sep 1990"
+    },
+    {
+      "kode": "AIMS",
+      "nama": "PT Artha Mahiya Investama Tbk",
+      "tanggal": "20 Jul 2001"
+    },
+    {
+      "kode": "AISA",
+      "nama": "PT FKS Food Sejahtera Tbk",
+      "tanggal": "11 Jun 1997"
+    },
+    {
+      "kode": "AKKU",
+      "nama": "PT Anugerah Kagum Karya Utama Tbk",
+      "tanggal": "01 Nov 2004"
+    },
+    {
+      "kode": "AKPI",
+      "nama": "Argha Karya Prima Ind. Tbk",
+      "tanggal": "18 Des 1992"
+    },
+    {
+      "kode": "AKRA",
+      "nama": "PT AKR Corporindo Tbk.",
+      "tanggal": "03 Okt 1994"
+    },
+    {
+      "kode": "AKSI",
+      "nama": "PT Mineral Sumberdaya Mandiri Tbk",
+      "tanggal": "13 Jul 2001"
+    },
+    {
+      "kode": "ALDO",
+      "nama": "Alkindo Naratama Tbk",
+      "tanggal": "12 Jul 2011"
+    },
+    {
+      "kode": "ALII",
+      "nama": "PT Ancara Logistics Indonesia Tbk",
+      "tanggal": "07 Feb 2024"
+    },
+    {
+      "kode": "ALKA",
+      "nama": "Alakasa Industrindo Tbk",
+      "tanggal": "12 Jul 1990"
+    },
+    {
+      "kode": "ALMI",
+      "nama": "Alumindo Light Metal Industry Tbk",
+      "tanggal": "02 Jan 1997"
+    },
+    {
+      "kode": "ALTO",
+      "nama": "Tri Banyan Tirta Tbk",
+      "tanggal": "10 Jul 2012"
+    },
+    {
+      "kode": "AMAG",
+      "nama": "Asuransi Multi Artha Guna Tbk",
+      "tanggal": "23 Des 2005"
+    },
+    {
+      "kode": "AMAN",
+      "nama": "PT Makmur Berkah Amanda Tbk.",
+      "tanggal": "13 Mar 2020"
+    },
+    {
+      "kode": "AMAR",
+      "nama": "PT Bank Amar Indonesia Tbk.",
+      "tanggal": "09 Jan 2020"
+    },
+    {
+      "kode": "AMFG",
+      "nama": "Asahimas Flat Glass Tbk",
+      "tanggal": "08 Nov 1995"
+    },
+    {
+      "kode": "AMIN",
+      "nama": "PT Ateliers Mecaniques D Indonesie Tbk.",
+      "tanggal": "10 Des 2015"
+    },
+    {
+      "kode": "AMMN",
+      "nama": "PT Amman Mineral Internasional Tbk.",
+      "tanggal": "07 Jul 2023"
+    },
+    {
+      "kode": "AMMS",
+      "nama": "PT Agung Menjangan Mas Tbk",
+      "tanggal": "04 Agt 2022"
+    },
+    {
+      "kode": "AMOR",
+      "nama": "PT Ashmore Asset Management Indonesia Tbk.",
+      "tanggal": "14 Jan 2020"
+    },
+    {
+      "kode": "AMRT",
+      "nama": "PT Sumber Alfaria Trijaya Tbk.",
+      "tanggal": "15 Jan 2009"
+    },
+    {
+      "kode": "ANDI",
+      "nama": "PT Andira Agro Tbk",
+      "tanggal": "16 Agt 2018"
+    },
+    {
+      "kode": "ANJT",
+      "nama": "PT Austindo Nusantara Jaya Tbk.",
+      "tanggal": "08 Mei 2013"
+    },
+    {
+      "kode": "ANTM",
+      "nama": "Aneka Tambang Tbk.",
+      "tanggal": "27 Nov 1997"
+    },
+    {
+      "kode": "APEX",
+      "nama": "Apexindo Pratama Duta Tbk",
+      "tanggal": "05 Jun 2013"
+    },
+    {
+      "kode": "APIC",
+      "nama": "PACIFIC STRATEGIC FINANCIAL Tbk",
+      "tanggal": "18 Des 2002"
+    },
+    {
+      "kode": "APII",
+      "nama": "PT Arita Prima Indonesia Tbk.",
+      "tanggal": "29 Okt 2013"
+    },
+    {
+      "kode": "APLI",
+      "nama": "Asiaplast Industries Tbk",
+      "tanggal": "01 Mei 2000"
+    },
+    {
+      "kode": "APLN",
+      "nama": "PT Agung Podomoro Land Tbk.",
+      "tanggal": "11 Nov 2010"
+    },
+    {
+      "kode": "ARCI",
+      "nama": "PT Archi Indonesia Tbk",
+      "tanggal": "28 Jun 2021"
+    },
+    {
+      "kode": "AREA",
+      "nama": "PT Dunia Virtual Online Tbk",
+      "tanggal": "01 Apr 2024"
+    },
+    {
+      "kode": "ARGO",
+      "nama": "Argo Pantes Tbk",
+      "tanggal": "07 Jan 1991"
+    },
+    {
+      "kode": "ARII",
+      "nama": "Atlas Resources Tbk",
+      "tanggal": "08 Nov 2011"
+    },
+    {
+      "kode": "ARKA",
+      "nama": "PT Arkha Jayanti Persada Tbk.",
+      "tanggal": "10 Jul 2019"
+    },
+    {
+      "kode": "ARKO",
+      "nama": "PT Arkora Hydro Tbk.",
+      "tanggal": "08 Jul 2022"
+    },
+    {
+      "kode": "ARMY",
+      "nama": "PT Armidian Karyatama Tbk",
+      "tanggal": "21 Jun 2017"
+    },
+    {
+      "kode": "ARNA",
+      "nama": "Arwana Citramulia Tbk",
+      "tanggal": "17 Jul 2001"
+    },
+    {
+      "kode": "ARTA",
+      "nama": "Arthavest Tbk",
+      "tanggal": "05 Nov 2002"
+    },
+    {
+      "kode": "ARTI",
+      "nama": "Ratu Prabu Energi Tbk",
+      "tanggal": "30 Apr 2003"
+    },
+    {
+      "kode": "ARTO",
+      "nama": "PT Bank Jago Tbk.",
+      "tanggal": "12 Jan 2016"
+    },
+    {
+      "kode": "ASBI",
+      "nama": "Asuransi Bintang Tbk",
+      "tanggal": "29 Nov 1989"
+    },
+    {
+      "kode": "ASDM",
+      "nama": "Asuransi Dayin Mitra Tbk",
+      "tanggal": "15 Des 1989"
+    },
+    {
+      "kode": "ASGR",
+      "nama": "Astra Graphia Tbk",
+      "tanggal": "15 Nov 1989"
+    },
+    {
+      "kode": "ASHA",
+      "nama": "PT Cilacap Samudera Fishing Industry Tbk",
+      "tanggal": "27 Mei 2022"
+    },
+    {
+      "kode": "ASII",
+      "nama": "Astra International Tbk",
+      "tanggal": "04 Apr 1990"
+    },
+    {
+      "kode": "ASJT",
+      "nama": "Asuransi Jasa Tania Tbk",
+      "tanggal": "23 Des 2003"
+    },
+    {
+      "kode": "ASLC",
+      "nama": "PT Autopedia Sukses Lestari Tbk",
+      "tanggal": "25 Jan 2022"
+    },
+    {
+      "kode": "ASLI",
+      "nama": "PT Asri Karya Lestari Tbk.",
+      "tanggal": "05 Jan 2024"
+    },
+    {
+      "kode": "ASMI",
+      "nama": "PT Asuransi Maximus Graha Persada Tbk.",
+      "tanggal": "16 Jan 2014"
+    },
+    {
+      "kode": "ASPI",
+      "nama": "PT Andalan Sakti Primaindo Tbk.",
+      "tanggal": "17 Feb 2020"
+    },
+    {
+      "kode": "ASPR",
+      "nama": "PT Asia Pramulia Tbk",
+      "tanggal": "08 Jul 2025"
+    },
+    {
+      "kode": "ASRI",
+      "nama": "ALAM SUTERA REALTY Tbk",
+      "tanggal": "18 Des 2007"
+    },
+    {
+      "kode": "ASRM",
+      "nama": "Asuransi Ramayana Tbk",
+      "tanggal": "19 Mar 1990"
+    },
+    {
+      "kode": "ASSA",
+      "nama": "Adi Sarana Armada Tbk",
+      "tanggal": "12 Nov 2012"
+    },
+    {
+      "kode": "ATAP",
+      "nama": "PT Trimitra Prawara Goldland Tbk",
+      "tanggal": "11 Des 2020"
+    },
+    {
+      "kode": "ATIC",
+      "nama": "PT Anabatic Technologies Tbk",
+      "tanggal": "08 Jul 2015"
+    },
+    {
+      "kode": "ATLA",
+      "nama": "PT Atlantis Subsea Indonesia Tbk",
+      "tanggal": "16 Apr 2024"
+    },
+    {
+      "kode": "AUTO",
+      "nama": "Astra Otoparts Tbk",
+      "tanggal": "15 Jun 1998"
+    },
+    {
+      "kode": "AVIA",
+      "nama": "PT Avia Avian Tbk",
+      "tanggal": "08 Des 2021"
+    },
+    {
+      "kode": "AWAN",
+      "nama": "PT Era Digital Media Tbk",
+      "tanggal": "18 Apr 2023"
+    },
+    {
+      "kode": "AXIO",
+      "nama": "PT Tera Data Indonusa Tbk",
+      "tanggal": "20 Jul 2022"
+    },
+    {
+      "kode": "AYAM",
+      "nama": "PT Janu Putra Sejahtera Tbk.",
+      "tanggal": "30 Nov 2023"
+    },
+    {
+      "kode": "AYLS",
+      "nama": "PT Agro Yasa Lestari Tbk",
+      "tanggal": "12 Feb 2020"
+    },
+    {
+      "kode": "BABP",
+      "nama": "PT Bank MNC Internasional Tbk.",
+      "tanggal": "15 Jul 2002"
+    },
+    {
+      "kode": "BABY",
+      "nama": "PT Multitrend Indo Tbk.",
+      "tanggal": "07 Sep 2023"
+    },
+    {
+      "kode": "BACA",
+      "nama": "PT Bank Capital Indonesia Tbk",
+      "tanggal": "04 Okt 2007"
+    },
+    {
+      "kode": "BAIK",
+      "nama": "PT Bersama Mencapai Puncak Tbk.",
+      "tanggal": "15 Feb 2024"
+    },
+    {
+      "kode": "BAJA",
+      "nama": "Saranacentral Bajatama Tbk",
+      "tanggal": "21 Des 2011"
+    },
+    {
+      "kode": "BALI",
+      "nama": "PT Bali Towerindo Sentra Tbk.",
+      "tanggal": "13 Mar 2014"
+    },
+    {
+      "kode": "BANK",
+      "nama": "PT Bank Aladin Syariah Tbk",
+      "tanggal": "01 Feb 2021"
+    },
+    {
+      "kode": "BAPA",
+      "nama": "Bekasi Asri Pemula Tbk",
+      "tanggal": "14 Jan 2008"
+    },
+    {
+      "kode": "BAPI",
+      "nama": "PT Bhakti Agung Propertindo Tbk.",
+      "tanggal": "16 Sep 2019"
+    },
+    {
+      "kode": "BATA",
+      "nama": "Sepatu Bata Tbk",
+      "tanggal": "24 Mar 1982"
+    },
+    {
+      "kode": "BATR",
+      "nama": "PT Benteng Api Technic Tbk",
+      "tanggal": "10 Jun 2024"
+    },
+    {
+      "kode": "BAUT",
+      "nama": "PT Mitra Angkasa Sejahtera Tbk",
+      "tanggal": "28 Jan 2022"
+    },
+    {
+      "kode": "BAYU",
+      "nama": "Bayu Buana Tbk",
+      "tanggal": "30 Okt 1989"
+    },
+    {
+      "kode": "BBCA",
+      "nama": "PT Bank Central Asia Tbk.",
+      "tanggal": "31 Mei 2000"
+    },
+    {
+      "kode": "BBHI",
+      "nama": "PT Allo Bank Indonesia Tbk",
+      "tanggal": "12 Agt 2015"
+    },
+    {
+      "kode": "BBKP",
+      "nama": "PT Bank KB Indonesia Tbk",
+      "tanggal": "10 Jul 2006"
+    },
+    {
+      "kode": "BBLD",
+      "nama": "Buana Finance Tbk",
+      "tanggal": "07 Mei 1990"
+    },
+    {
+      "kode": "BBMD",
+      "nama": "PT Bank Mestika Dharma Tbk.",
+      "tanggal": "08 Jul 2013"
+    },
+    {
+      "kode": "BBNI",
+      "nama": "PT Bank Negara Indonesia (Persero) Tbk",
+      "tanggal": "25 Nov 1996"
+    },
+    {
+      "kode": "BBRI",
+      "nama": "PT Bank Rakyat Indonesia (Persero) Tbk",
+      "tanggal": "10 Nov 2003"
+    },
+    {
+      "kode": "BBRM",
+      "nama": "Pelayaran Nasional Bina Buana Raya Tbk",
+      "tanggal": "09 Jan 2013"
+    },
+    {
+      "kode": "BBSI",
+      "nama": "PT Krom Bank Indonesia Tbk",
+      "tanggal": "07 Sep 2020"
+    },
+    {
+      "kode": "BBSS",
+      "nama": "PT Bumi Benowo Sukses Sejahtera Tbk",
+      "tanggal": "15 Apr 2020"
+    },
+    {
+      "kode": "BBTN",
+      "nama": "PT Bank Tabungan Negara (Persero) Tbk",
+      "tanggal": "17 Des 2009"
+    },
+    {
+      "kode": "BBYB",
+      "nama": "PT Bank Neo Commerce Tbk.",
+      "tanggal": "13 Jan 2015"
+    },
+    {
+      "kode": "BCAP",
+      "nama": "MNC Kapital Indonesia Tbk",
+      "tanggal": "08 Jun 2001"
+    },
+    {
+      "kode": "BCIC",
+      "nama": "PT Bank JTrust Indonesia Tbk.",
+      "tanggal": "25 Jun 1997"
+    },
+    {
+      "kode": "BCIP",
+      "nama": "Bumi Citra Permai Tbk",
+      "tanggal": "11 Des 2009"
+    },
+    {
+      "kode": "BDKR",
+      "nama": "PT Berdikari Pondasi Perkasa Tbk.",
+      "tanggal": "03 Mar 2023"
+    },
+    {
+      "kode": "BDMN",
+      "nama": "PT Bank Danamon Indonesia Tbk",
+      "tanggal": "06 Des 1989"
+    },
+    {
+      "kode": "BEBS",
+      "nama": "PT Berkah Beton Sadaya Tbk",
+      "tanggal": "10 Mar 2021"
+    },
+    {
+      "kode": "BEEF",
+      "nama": "PT Estika Tata Tiara Tbk.",
+      "tanggal": "10 Jan 2019"
+    },
+    {
+      "kode": "BEER",
+      "nama": "PT Jobubu Jarum Minahasa Tbk",
+      "tanggal": "06 Jan 2023"
+    },
+    {
+      "kode": "BEKS",
+      "nama": "PT Bank Pembangunan Daerah Banten Tbk.",
+      "tanggal": "13 Jul 2001"
+    },
+    {
+      "kode": "BELI",
+      "nama": "PT Global Digital Niaga Tbk",
+      "tanggal": "08 Nov 2022"
+    },
+    {
+      "kode": "BELL",
+      "nama": "PT Trisula Textile Industries Tbk",
+      "tanggal": "03 Okt 2017"
+    },
+    {
+      "kode": "BESS",
+      "nama": "PT Batulicin Nusantara Maritim Tbk.",
+      "tanggal": "09 Mar 2020"
+    },
+    {
+      "kode": "BEST",
+      "nama": "Bekasi Fajar Industrial Estate Tbk",
+      "tanggal": "10 Apr 2012"
+    },
+    {
+      "kode": "BFIN",
+      "nama": "BFI Finance Indonesia Tbk",
+      "tanggal": "16 Mei 1990"
+    },
+    {
+      "kode": "BGTG",
+      "nama": "PT Bank Ganesha Tbk.",
+      "tanggal": "12 Mei 2016"
+    },
+    {
+      "kode": "BHAT",
+      "nama": "PT Bhakti Multi Artha Tbk.",
+      "tanggal": "15 Apr 2020"
+    },
+    {
+      "kode": "BHIT",
+      "nama": "PT MNC Asia Holding Tbk",
+      "tanggal": "24 Nov 1997"
+    },
+    {
+      "kode": "BIKA",
+      "nama": "PT Binakarya Jaya Abadi Tbk.",
+      "tanggal": "14 Jul 2015"
+    },
+    {
+      "kode": "BIKE",
+      "nama": "PT Sepeda Bersama Indonesia Tbk",
+      "tanggal": "21 Mar 2022"
+    },
+    {
+      "kode": "BIMA",
+      "nama": "Primarindo Asia Infrastructure Tbk",
+      "tanggal": "30 Agt 1994"
+    },
+    {
+      "kode": "BINA",
+      "nama": "PT Bank Ina Perdana Tbk.",
+      "tanggal": "16 Jan 2014"
+    },
+    {
+      "kode": "BINO",
+      "nama": "PT Perma Plasindo Tbk",
+      "tanggal": "25 Nov 2021"
+    },
+    {
+      "kode": "BIPI",
+      "nama": "PT Astrindo Nusantara Infrastruktur Tbk.",
+      "tanggal": "11 Feb 2010"
+    },
+    {
+      "kode": "BIPP",
+      "nama": "Bhuwanatala Indah Permai Tbk",
+      "tanggal": "23 Okt 1995"
+    },
+    {
+      "kode": "BIRD",
+      "nama": "PT Blue Bird Tbk",
+      "tanggal": "05 Nov 2014"
+    },
+    {
+      "kode": "BISI",
+      "nama": "BISI INTERNATIONAL Tbk",
+      "tanggal": "28 Mei 2007"
+    },
+    {
+      "kode": "BJBR",
+      "nama": "Bank Pembangunan Daerah Jawa Barat dan Banten Tbk",
+      "tanggal": "08 Jul 2010"
+    },
+    {
+      "kode": "BJTM",
+      "nama": "Bank Pembangunan Daerah Jawa Timur Tbk",
+      "tanggal": "12 Jul 2012"
+    },
+    {
+      "kode": "BKDP",
+      "nama": "Bukit Darmo Property Tbk",
+      "tanggal": "15 Jun 2007"
+    },
+    {
+      "kode": "BKSL",
+      "nama": "Sentul City Tbk",
+      "tanggal": "28 Jul 1997"
+    },
+    {
+      "kode": "BKSW",
+      "nama": "PT Bank QNB Indonesia Tbk",
+      "tanggal": "21 Nov 2002"
+    },
+    {
+      "kode": "BLES",
+      "nama": "PT Superior Prima Sukses Tbk",
+      "tanggal": "08 Jul 2024"
+    },
+    {
+      "kode": "BLOG",
+      "nama": "PT Trimitra Trans Persada Tbk",
+      "tanggal": "10 Jul 2025"
+    },
+    {
+      "kode": "BLTA",
+      "nama": "Berlian Laju Tanker Tbk",
+      "tanggal": "26 Mar 1990"
+    },
+    {
+      "kode": "BLTZ",
+      "nama": "PT Graha Layar Prima Tbk.",
+      "tanggal": "10 Apr 2014"
+    },
+    {
+      "kode": "BLUE",
+      "nama": "PT Berkah Prima Perkasa Tbk",
+      "tanggal": "08 Jul 2019"
+    },
+    {
+      "kode": "BMAS",
+      "nama": "PT Bank Maspion Indonesia Tbk.",
+      "tanggal": "11 Jul 2013"
+    },
+    {
+      "kode": "BMBL",
+      "nama": "PT Lavender Bina Cendikia Tbk",
+      "tanggal": "11 Jan 2023"
+    },
+    {
+      "kode": "BMHS",
+      "nama": "PT Bundamedik Tbk",
+      "tanggal": "06 Jul 2021"
+    },
+    {
+      "kode": "BMRI",
+      "nama": "PT Bank Mandiri (Persero) Tbk",
+      "tanggal": "14 Jul 2003"
+    },
+    {
+      "kode": "BMSR",
+      "nama": "Bintang Mitra Semestaraya Tbk",
+      "tanggal": "29 Des 1999"
+    },
+    {
+      "kode": "BMTR",
+      "nama": "PT Global Mediacom Tbk",
+      "tanggal": "17 Jul 1995"
+    },
+    {
+      "kode": "BNBA",
+      "nama": "Bank Bumi Arta Tbk",
+      "tanggal": "01 Jun 2006"
+    },
+    {
+      "kode": "BNBR",
+      "nama": "Bakrie & Brothers Tbk",
+      "tanggal": "28 Agt 1989"
+    },
+    {
+      "kode": "BNGA",
+      "nama": "PT Bank CIMB Niaga Tbk",
+      "tanggal": "29 Nov 1989"
+    },
+    {
+      "kode": "BNII",
+      "nama": "PT Bank Maybank Indonesia Tbk",
+      "tanggal": "21 Nov 1989"
+    },
+    {
+      "kode": "BNLI",
+      "nama": "Bank Permata Tbk",
+      "tanggal": "15 Jan 1990"
+    },
+    {
+      "kode": "BOAT",
+      "nama": "PT Newport Marine Services Tbk",
+      "tanggal": "12 Nov 2024"
+    },
+    {
+      "kode": "BOBA",
+      "nama": "PT Formosa Ingredient Factory Tbk",
+      "tanggal": "01 Nov 2021"
+    },
+    {
+      "kode": "BOGA",
+      "nama": "PT Bintang Oto Global Tbk",
+      "tanggal": "19 Des 2016"
+    },
+    {
+      "kode": "BOLA",
+      "nama": "PT Bali Bintang Sejahtera Tbk.",
+      "tanggal": "17 Jun 2019"
+    },
+    {
+      "kode": "BOLT",
+      "nama": "PT Garuda Metalindo Tbk.",
+      "tanggal": "07 Jul 2015"
+    },
+    {
+      "kode": "BOSS",
+      "nama": "PT Borneo Olah Sarana Sukses Tbk.",
+      "tanggal": "15 Feb 2018"
+    },
+    {
+      "kode": "BPFI",
+      "nama": "PT Woori Finance Indonesia Tbk",
+      "tanggal": "01 Jun 2009"
+    },
+    {
+      "kode": "BPII",
+      "nama": "PT Batavia Prosperindo Internasional Tbk.",
+      "tanggal": "08 Jul 2014"
+    },
+    {
+      "kode": "BPTR",
+      "nama": "PT Batavia Prosperindo Trans Tbk.",
+      "tanggal": "09 Jul 2018"
+    },
+    {
+      "kode": "BRAM",
+      "nama": "Indo Kordsa Tbk",
+      "tanggal": "05 Sep 1990"
+    },
+    {
+      "kode": "BREN",
+      "nama": "PT Barito Renewables Energy Tbk.",
+      "tanggal": "09 Okt 2023"
+    },
+    {
+      "kode": "BRIS",
+      "nama": "PT Bank Syariah Indonesia Tbk",
+      "tanggal": "09 Mei 2018"
+    },
+    {
+      "kode": "BRMS",
+      "nama": "Bumi Resources Minerals Tbk",
+      "tanggal": "09 Des 2010"
+    },
+    {
+      "kode": "BRNA",
+      "nama": "Berlina Tbk",
+      "tanggal": "06 Nov 1989"
+    },
+    {
+      "kode": "BRPT",
+      "nama": "Barito Pacific Tbk",
+      "tanggal": "01 Okt 1993"
+    },
+    {
+      "kode": "BRRC",
+      "nama": "PT Raja Roti Cemerlang Tbk",
+      "tanggal": "09 Jan 2025"
+    },
+    {
+      "kode": "BSBK",
+      "nama": "PT Wulandari Bangun Laksana Tbk",
+      "tanggal": "08 Nov 2022"
+    },
+    {
+      "kode": "BSDE",
+      "nama": "PT Bumi Serpong Damai Tbk",
+      "tanggal": "06 Jun 2008"
+    },
+    {
+      "kode": "BSIM",
+      "nama": "Bank Sinarmas Tbk",
+      "tanggal": "13 Des 2010"
+    },
+    {
+      "kode": "BSML",
+      "nama": "PT Bintang Samudera Mandiri Lines Tbk",
+      "tanggal": "16 Des 2021"
+    },
+    {
+      "kode": "BSSR",
+      "nama": "Baramulti Suksessarana Tbk",
+      "tanggal": "08 Nov 2012"
+    },
+    {
+      "kode": "BSWD",
+      "nama": "Bank of India Indonesia Tbk",
+      "tanggal": "01 Mei 2002"
+    },
+    {
+      "kode": "BTEK",
+      "nama": "Bumi Teknokultura Unggul Tbk",
+      "tanggal": "14 Mei 2004"
+    },
+    {
+      "kode": "BTEL",
+      "nama": "Bakrie Telecom Tbk",
+      "tanggal": "03 Feb 2006"
+    },
+    {
+      "kode": "BTON",
+      "nama": "Betonjaya Manunggal Tbk",
+      "tanggal": "18 Jul 2001"
+    },
+    {
+      "kode": "BTPN",
+      "nama": "PT Bank SMBC Indonesia Tbk",
+      "tanggal": "12 Mar 2008"
+    },
+    {
+      "kode": "BTPS",
+      "nama": "PT Bank BTPN Syariah Tbk.",
+      "tanggal": "08 Mei 2018"
+    },
+    {
+      "kode": "BUAH",
+      "nama": "PT Segar Kumala Indonesia Tbk",
+      "tanggal": "09 Agt 2022"
+    },
+    {
+      "kode": "BUDI",
+      "nama": "PT Budi Starch & Sweetener Tbk.",
+      "tanggal": "08 Mei 1995"
+    },
+    {
+      "kode": "BUKA",
+      "nama": "PT Bukalapak.com Tbk",
+      "tanggal": "06 Agt 2021"
+    },
+    {
+      "kode": "BUKK",
+      "nama": "Bukaka Teknik Utama Tbk",
+      "tanggal": "29 Jun 2015"
+    },
+    {
+      "kode": "BULL",
+      "nama": "PT Buana Lintas Lautan Tbk.",
+      "tanggal": "23 Mei 2011"
+    },
+    {
+      "kode": "BUMI",
+      "nama": "Bumi Resources Tbk",
+      "tanggal": "30 Jul 1990"
+    },
+    {
+      "kode": "BUVA",
+      "nama": "PT Bukit Uluwatu Villa Tbk",
+      "tanggal": "12 Jul 2010"
+    },
+    {
+      "kode": "BVIC",
+      "nama": "Bank Victoria International Tbk",
+      "tanggal": "30 Jun 1999"
+    },
+    {
+      "kode": "BWPT",
+      "nama": "Eagle High Plantations Tbk",
+      "tanggal": "27 Okt 2009"
+    },
+    {
+      "kode": "BYAN",
+      "nama": "Bayan Resources Tbk",
+      "tanggal": "12 Agt 2008"
+    },
+    {
+      "kode": "CAKK",
+      "nama": "PT Cahayaputra Asa Keramik Tbk.",
+      "tanggal": "31 Okt 2018"
+    },
+    {
+      "kode": "CAMP",
+      "nama": "PT Campina Ice Cream Industry Tbk.",
+      "tanggal": "19 Des 2017"
+    },
+    {
+      "kode": "CANI",
+      "nama": "PT Capitol Nusantara Indonesia Tbk.",
+      "tanggal": "16 Jan 2014"
+    },
+    {
+      "kode": "CARE",
+      "nama": "PT Metro Healthcare Indonesia Tbk",
+      "tanggal": "13 Mar 2020"
+    },
+    {
+      "kode": "CARS",
+      "nama": "PT Industri dan Perdagangan Bintraco Dharma Tbk",
+      "tanggal": "10 Apr 2017"
+    },
+    {
+      "kode": "CASA",
+      "nama": "PT Capital Financial Indonesia Tbk",
+      "tanggal": "19 Jul 2016"
+    },
+    {
+      "kode": "CASH",
+      "nama": "PT Cashlez Worldwide Indonesia Tbk.",
+      "tanggal": "04 Mei 2020"
+    },
+    {
+      "kode": "CASS",
+      "nama": "Cahaya Aero Services Tbk",
+      "tanggal": "05 Des 2011"
+    },
+    {
+      "kode": "CBDK",
+      "nama": "PT Bangun Kosambi Sukses Tbk",
+      "tanggal": "13 Jan 2025"
+    },
+    {
+      "kode": "CBMF",
+      "nama": "PT Cahaya Bintang Medan Tbk",
+      "tanggal": "09 Apr 2020"
+    },
+    {
+      "kode": "CBPE",
+      "nama": "PT Citra Buana Prasida Tbk",
+      "tanggal": "06 Jan 2023"
+    },
+    {
+      "kode": "CBRE",
+      "nama": "PT Cakra Buana Resources Energi Tbk",
+      "tanggal": "09 Jan 2023"
+    },
+    {
+      "kode": "CBUT",
+      "nama": "PT Citra Borneo Utama Tbk",
+      "tanggal": "08 Nov 2022"
+    },
+    {
+      "kode": "CCSI",
+      "nama": "PT Communication Cable Systems Indonesia Tbk.",
+      "tanggal": "18 Jun 2019"
+    },
+    {
+      "kode": "CDIA",
+      "nama": "PT Chandra Daya Investasi Tbk",
+      "tanggal": "09 Jul 2025"
+    },
+    {
+      "kode": "CEKA",
+      "nama": "PT Wilmar Cahaya Indonesia Tbk.",
+      "tanggal": "09 Jul 1996"
+    },
+    {
+      "kode": "CENT",
+      "nama": "PT Centratama Telekomunikasi Indonesia Tbk.",
+      "tanggal": "01 Nov 2001"
+    },
+    {
+      "kode": "CFIN",
+      "nama": "Clipan Finance Indonesia Tbk",
+      "tanggal": "27 Agt 1990"
+    },
+    {
+      "kode": "CGAS",
+      "nama": "PT Citra Nusantara Gemilang Tbk.",
+      "tanggal": "08 Jan 2024"
+    },
+    {
+      "kode": "CHEK",
+      "nama": "PT Diastika Biotekindo Tbk",
+      "tanggal": "10 Jul 2025"
+    },
+    {
+      "kode": "CHEM",
+      "nama": "PT Chemstar Indonesia Tbk",
+      "tanggal": "08 Jul 2022"
+    },
+    {
+      "kode": "CHIP",
+      "nama": "PT Pelita Teknologi Global Tbk",
+      "tanggal": "08 Feb 2023"
+    },
+    {
+      "kode": "CINT",
+      "nama": "PT Chitose Internasional Tbk",
+      "tanggal": "27 Jun 2014"
+    },
+    {
+      "kode": "CITA",
+      "nama": "Cita Mineral Investindo Tbk",
+      "tanggal": "20 Mar 2002"
+    },
+    {
+      "kode": "CITY",
+      "nama": "PT Natura City Developments Tbk.",
+      "tanggal": "28 Sep 2018"
+    },
+    {
+      "kode": "CLAY",
+      "nama": "PT Citra Putra Realty Tbk",
+      "tanggal": "18 Jan 2019"
+    },
+    {
+      "kode": "CLEO",
+      "nama": "PT Sariguna Primatirta Tbk",
+      "tanggal": "05 Mei 2017"
+    },
+    {
+      "kode": "CLPI",
+      "nama": "Colorpak Indonesia Tbk",
+      "tanggal": "30 Nov 2001"
+    },
+    {
+      "kode": "CMNP",
+      "nama": "Citra Marga Nusaphala Persada Tbk",
+      "tanggal": "10 Jan 1995"
+    },
+    {
+      "kode": "CMNT",
+      "nama": "PT Cemindo Gemilang Tbk",
+      "tanggal": "08 Sep 2021"
+    },
+    {
+      "kode": "CMPP",
+      "nama": "PT AirAsia Indonesia Tbk",
+      "tanggal": "08 Des 1994"
+    },
+    {
+      "kode": "CMRY",
+      "nama": "PT Cisarua Mountain Dairy Tbk",
+      "tanggal": "06 Des 2021"
+    },
+    {
+      "kode": "CNKO",
+      "nama": "Exploitasi Energi Indonesia Tbk",
+      "tanggal": "20 Nov 2001"
+    },
+    {
+      "kode": "CNMA",
+      "nama": "PT Nusantara Sejahtera Raya Tbk",
+      "tanggal": "02 Agt 2023"
+    },
+    {
+      "kode": "CNTX",
+      "nama": "PT Century Textile Industry Tbk",
+      "tanggal": "22 Mei 1979"
+    },
+    {
+      "kode": "COAL",
+      "nama": "PT Black Diamond Resources Tbk",
+      "tanggal": "07 Sep 2022"
+    },
+    {
+      "kode": "COCO",
+      "nama": "PT Wahana Interfood Nusantara Tbk.",
+      "tanggal": "20 Mar 2019"
+    },
+    {
+      "kode": "COIN",
+      "nama": "PT Indokripto Koin Semesta Tbk",
+      "tanggal": "09 Jul 2025"
+    },
+    {
+      "kode": "COWL",
+      "nama": "COWELL DEVELOPMENT Tbk",
+      "tanggal": "19 Des 2007"
+    },
+    {
+      "kode": "CPIN",
+      "nama": "Charoen Pokphand Indonesia Tbk",
+      "tanggal": "18 Mar 1991"
+    },
+    {
+      "kode": "CPRI",
+      "nama": "PT Capri Nusa Satu Properti Tbk.",
+      "tanggal": "11 Apr 2019"
+    },
+    {
+      "kode": "CPRO",
+      "nama": "Central Proteina Prima Tbk",
+      "tanggal": "28 Nov 2006"
+    },
+    {
+      "kode": "CRAB",
+      "nama": "PT Toba Surimi Industries Tbk",
+      "tanggal": "10 Agt 2022"
+    },
+    {
+      "kode": "CRSN",
+      "nama": "PT Carsurin Tbk",
+      "tanggal": "10 Jul 2023"
+    },
+    {
+      "kode": "CSAP",
+      "nama": "Catur Sentosa Adiprana Tbk",
+      "tanggal": "12 Des 2007"
+    },
+    {
+      "kode": "CSIS",
+      "nama": "PT Cahayasakti Investindo Sukses Tbk",
+      "tanggal": "10 Mei 2017"
+    },
+    {
+      "kode": "CSMI",
+      "nama": "PT Cipta Selera Murni Tbk.",
+      "tanggal": "09 Apr 2020"
+    },
+    {
+      "kode": "CSRA",
+      "nama": "PT Cisadane Sawit Raya Tbk.",
+      "tanggal": "09 Jan 2020"
+    },
+    {
+      "kode": "CTBN",
+      "nama": "Citra Tubindo Tbk",
+      "tanggal": "28 Nov 1989"
+    },
+    {
+      "kode": "CTRA",
+      "nama": "Ciputra Development Tbk",
+      "tanggal": "28 Mar 1994"
+    },
+    {
+      "kode": "CTTH",
+      "nama": "Citatah Tbk",
+      "tanggal": "03 Jul 1996"
+    },
+    {
+      "kode": "CUAN",
+      "nama": "PT Petrindo Jaya Kreasi Tbk",
+      "tanggal": "08 Mar 2023"
+    },
+    {
+      "kode": "CYBR",
+      "nama": "PT ITSEC Asia Tbk.",
+      "tanggal": "08 Agt 2023"
+    },
+    {
+      "kode": "DAAZ",
+      "nama": "PT Daaz Bara Lestari Tbk",
+      "tanggal": "11 Nov 2024"
+    },
+    {
+      "kode": "DADA",
+      "nama": "PT Diamond Citra Propertindo Tbk.",
+      "tanggal": "14 Feb 2020"
+    },
+    {
+      "kode": "DART",
+      "nama": "Duta Anggada Realty Tbk",
+      "tanggal": "08 Mei 1990"
+    },
+    {
+      "kode": "DATA",
+      "nama": "PT Remala Abadi Tbk",
+      "tanggal": "07 Mei 2024"
+    },
+    {
+      "kode": "DAYA",
+      "nama": "PT Duta Intidaya Tbk.",
+      "tanggal": "28 Jun 2016"
+    },
+    {
+      "kode": "DCII",
+      "nama": "PT DCI Indonesia Tbk",
+      "tanggal": "06 Jan 2021"
+    },
+    {
+      "kode": "DEAL",
+      "nama": "PT Dewata Freightinternational Tbk.",
+      "tanggal": "11 Nov 2018"
+    },
+    {
+      "kode": "DEFI",
+      "nama": "Danasupra Erapacific Tbk",
+      "tanggal": "06 Jul 2001"
+    },
+    {
+      "kode": "DEPO",
+      "nama": "PT Caturkarda Depo Bangunan Tbk",
+      "tanggal": "25 Nov 2021"
+    },
+    {
+      "kode": "DEWA",
+      "nama": "Darma Henwa Tbk",
+      "tanggal": "26 Sep 2007"
+    },
+    {
+      "kode": "DEWI",
+      "nama": "PT Dewi Shri Farmindo Tbk",
+      "tanggal": "18 Jul 2022"
+    },
+    {
+      "kode": "DFAM",
+      "nama": "PT Dafam Property Indonesia Tbk",
+      "tanggal": "27 Apr 2018"
+    },
+    {
+      "kode": "DGIK",
+      "nama": "Nusa Konstruksi Enjiniring Tbk",
+      "tanggal": "19 Des 2007"
+    },
+    {
+      "kode": "DGNS",
+      "nama": "PT Diagnos Laboratorium Utama Tbk",
+      "tanggal": "15 Jan 2021"
+    },
+    {
+      "kode": "DGWG",
+      "nama": "PT Delta Giri Wacana Tbk",
+      "tanggal": "13 Jan 2025"
+    },
+    {
+      "kode": "DIGI",
+      "nama": "PT Arkadia Digital Media Tbk",
+      "tanggal": "18 Sep 2018"
+    },
+    {
+      "kode": "DILD",
+      "nama": "Intiland Development Tbk",
+      "tanggal": "04 Sep 1991"
+    },
+    {
+      "kode": "DIVA",
+      "nama": "PT Distribusi Voucher Nusantara Tbk",
+      "tanggal": "27 Nov 2018"
+    },
+    {
+      "kode": "DKFT",
+      "nama": "Central Omega Resources Tbk",
+      "tanggal": "21 Nov 1997"
+    },
+    {
+      "kode": "DKHH",
+      "nama": "PT Cipta Sarana Medika Tbk",
+      "tanggal": "08 Mei 2025"
+    },
+    {
+      "kode": "DLTA",
+      "nama": "Delta Djakarta Tbk",
+      "tanggal": "27 Feb 1984"
+    },
+    {
+      "kode": "DMAS",
+      "nama": "PT Puradelta Lestari Tbk.",
+      "tanggal": "29 Mei 2015"
+    },
+    {
+      "kode": "DMMX",
+      "nama": "PT Digital Mediatama Maxima Tbk",
+      "tanggal": "21 Okt 2019"
+    },
+    {
+      "kode": "DMND",
+      "nama": "PT Diamond Food Indonesia Tbk.",
+      "tanggal": "22 Jan 2020"
+    },
+    {
+      "kode": "DNAR",
+      "nama": "PT Bank Oke Indonesia Tbk.",
+      "tanggal": "11 Jul 2014"
+    },
+    {
+      "kode": "DNET",
+      "nama": "PT Indoritel Makmur Internasional Tbk.",
+      "tanggal": "11 Des 2000"
+    },
+    {
+      "kode": "DOID",
+      "nama": "PT BUMA Internasional Grup Tbk",
+      "tanggal": "15 Jun 2001"
+    },
+    {
+      "kode": "DOOH",
+      "nama": "PT Era Media Sejahtera Tbk",
+      "tanggal": "08 Mei 2023"
+    },
+    {
+      "kode": "DOSS",
+      "nama": "PT Global Sukses Digital Tbk",
+      "tanggal": "07 Agt 2024"
+    },
+    {
+      "kode": "DPNS",
+      "nama": "Duta Pertiwi Nusantara Tbk",
+      "tanggal": "08 Agt 1990"
+    },
+    {
+      "kode": "DPUM",
+      "nama": "PT Dua Putra Utama Makmur Tbk.",
+      "tanggal": "08 Des 2015"
+    },
+    {
+      "kode": "DRMA",
+      "nama": "PT Dharma Polimetal Tbk",
+      "tanggal": "20 Des 2021"
+    },
+    {
+      "kode": "DSFI",
+      "nama": "Dharma Samudera Fishing Ind. Tbk",
+      "tanggal": "24 Mar 2000"
+    },
+    {
+      "kode": "DSNG",
+      "nama": "PT Dharma Satya Nusantara Tbk.",
+      "tanggal": "14 Jun 2013"
+    },
+    {
+      "kode": "DSSA",
+      "nama": "Dian Swastatika Sentosa Tbk",
+      "tanggal": "10 Des 2009"
+    },
+    {
+      "kode": "DUCK",
+      "nama": "PT Jaya Bersama Indo Tbk.",
+      "tanggal": "10 Okt 2018"
+    },
+    {
+      "kode": "DUTI",
+      "nama": "Duta Pertiwi Tbk",
+      "tanggal": "02 Nov 1994"
+    },
+    {
+      "kode": "DVLA",
+      "nama": "Darya-Varia Laboratoria Tbk",
+      "tanggal": "11 Nov 1994"
+    },
+    {
+      "kode": "DWGL",
+      "nama": "PT Dwi Guna Laksana Tbk",
+      "tanggal": "13 Des 2017"
+    },
+    {
+      "kode": "DYAN",
+      "nama": "PT Dyandra Media International Tbk.",
+      "tanggal": "25 Mar 2013"
+    },
+    {
+      "kode": "EAST",
+      "nama": "PT Eastparc Hotel Tbk",
+      "tanggal": "09 Jul 2019"
+    },
+    {
+      "kode": "ECII",
+      "nama": "PT Electronic City Indonesia Tbk.",
+      "tanggal": "03 Jul 2013"
+    },
+    {
+      "kode": "EDGE",
+      "nama": "PT Indointernet Tbk.",
+      "tanggal": "08 Feb 2021"
+    },
+    {
+      "kode": "EKAD",
+      "nama": "Ekadharma International Tbk",
+      "tanggal": "14 Agt 1990"
+    },
+    {
+      "kode": "ELIT",
+      "nama": "PT Data Sinergitama Jaya Tbk",
+      "tanggal": "06 Jan 2023"
+    },
+    {
+      "kode": "ELPI",
+      "nama": "PT Pelayaran Nasional Ekalya Purnamasari Tbk",
+      "tanggal": "08 Agt 2022"
+    },
+    {
+      "kode": "ELSA",
+      "nama": "Elnusa Tbk",
+      "tanggal": "06 Feb 2008"
+    },
+    {
+      "kode": "ELTY",
+      "nama": "Bakrieland Development Tbk",
+      "tanggal": "30 Okt 1995"
+    },
+    {
+      "kode": "EMAS",
+      "nama": "PT Merdeka Gold Resources Tbk",
+      "tanggal": "23 Sep 2025"
+    },
+    {
+      "kode": "EMDE",
+      "nama": "Megapolitan Developments Tbk",
+      "tanggal": "12 Jan 2011"
+    },
+    {
+      "kode": "EMTK",
+      "nama": "Elang Mahkota Teknologi Tbk",
+      "tanggal": "12 Jan 2010"
+    },
+    {
+      "kode": "ENAK",
+      "nama": "PT Champ Resto Indonesia Tbk",
+      "tanggal": "08 Feb 2022"
+    },
+    {
+      "kode": "ENRG",
+      "nama": "Energi Mega Persada Tbk",
+      "tanggal": "07 Jun 2004"
+    },
+    {
+      "kode": "ENVY",
+      "nama": "PT Envy Technologies Indonesia Tbk",
+      "tanggal": "08 Jul 2019"
+    },
+    {
+      "kode": "ENZO",
+      "nama": "PT Morenzo Abadi Perkasa Tbk",
+      "tanggal": "14 Sep 2020"
+    },
+    {
+      "kode": "EPAC",
+      "nama": "PT Megalestari Epack Sentosaraya Tbk.",
+      "tanggal": "01 Jul 2020"
+    },
+    {
+      "kode": "EPMT",
+      "nama": "Enseval Putera Megatrading Tbk",
+      "tanggal": "01 Agt 1994"
+    },
+    {
+      "kode": "ERAA",
+      "nama": "Erajaya Swasembada Tbk",
+      "tanggal": "14 Des 2011"
+    },
+    {
+      "kode": "ERAL",
+      "nama": "PT Sinar Eka Selaras Tbk",
+      "tanggal": "08 Agt 2023"
+    },
+    {
+      "kode": "ERTX",
+      "nama": "Eratex Djaja Tbk",
+      "tanggal": "21 Agt 1990"
+    },
+    {
+      "kode": "ESIP",
+      "nama": "PT Sinergi Inti Plastindo Tbk.",
+      "tanggal": "14 Nov 2019"
+    },
+    {
+      "kode": "ESSA",
+      "nama": "ESSA Industries Indonesia Tbk",
+      "tanggal": "01 Feb 2012"
+    },
+    {
+      "kode": "ESTA",
+      "nama": "PT Esta Multi Usaha Tbk.",
+      "tanggal": "09 Mar 2020"
+    },
+    {
+      "kode": "ESTI",
+      "nama": "Ever Shine Textile Industry Tbk",
+      "tanggal": "13 Okt 1992"
+    },
+    {
+      "kode": "ETWA",
+      "nama": "Eterindo Wahanatama Tbk",
+      "tanggal": "16 Mei 1997"
+    },
+    {
+      "kode": "EURO",
+      "nama": "PT Estee Gold Feet Tbk",
+      "tanggal": "08 Agt 2022"
+    },
+    {
+      "kode": "EXCL",
+      "nama": "PT XLSMART Telecom Sejahtera Tbk",
+      "tanggal": "29 Sep 2005"
+    },
+    {
+      "kode": "FAPA",
+      "nama": "PT FAP Agri Tbk",
+      "tanggal": "04 Jan 2021"
+    },
+    {
+      "kode": "FAST",
+      "nama": "PT Fast Food Indonesia Tbk",
+      "tanggal": "11 Mei 1993"
+    },
+    {
+      "kode": "FASW",
+      "nama": "Fajar Surya Wisesa Tbk",
+      "tanggal": "19 Des 1994"
+    },
+    {
+      "kode": "FILM",
+      "nama": "PT MD Entertainment Tbk",
+      "tanggal": "07 Agt 2018"
+    },
+    {
+      "kode": "FIMP",
+      "nama": "PT Fimperkasa Utama Tbk",
+      "tanggal": "09 Apr 2021"
+    },
+    {
+      "kode": "FIRE",
+      "nama": "PT Alfa Energi Investama Tbk.",
+      "tanggal": "09 Jun 2017"
+    },
+    {
+      "kode": "FISH",
+      "nama": "FKS Multi Agro Tbk",
+      "tanggal": "18 Jan 2002"
+    },
+    {
+      "kode": "FITT",
+      "nama": "PT Hotel Fitra International Tbk",
+      "tanggal": "11 Jun 2019"
+    },
+    {
+      "kode": "FLMC",
+      "nama": "PT Falmaco Nonwoven Industri Tbk",
+      "tanggal": "08 Jul 2021"
+    },
+    {
+      "kode": "FMII",
+      "nama": "Fortune Mate Indonesia Tbk",
+      "tanggal": "30 Jun 2000"
+    },
+    {
+      "kode": "FOLK",
+      "nama": "PT Multi Garam Utama Tbk.",
+      "tanggal": "07 Agt 2023"
+    },
+    {
+      "kode": "FOOD",
+      "nama": "PT Sentra Food Indonesia Tbk.",
+      "tanggal": "08 Jan 2019"
+    },
+    {
+      "kode": "FORE",
+      "nama": "PT Fore Kopi Indonesia Tbk",
+      "tanggal": "14 Apr 2025"
+    },
+    {
+      "kode": "FORU",
+      "nama": "Fortune Indonesia Tbk",
+      "tanggal": "17 Jan 2002"
+    },
+    {
+      "kode": "FPNI",
+      "nama": "PT Lotte Chemical Titan Tbk.",
+      "tanggal": "21 Mar 2002"
+    },
+    {
+      "kode": "FUJI",
+      "nama": "PT Fuji Finance Indonesia Tbk.",
+      "tanggal": "09 Jul 2019"
+    },
+    {
+      "kode": "FUTR",
+      "nama": "PT Futura Energi Global Tbk",
+      "tanggal": "27 Feb 2023"
+    },
+    {
+      "kode": "FWCT",
+      "nama": "PT Wijaya Cahaya Timber Tbk",
+      "tanggal": "01 Feb 2023"
+    },
+    {
+      "kode": "GAMA",
+      "nama": "Aksara Global Development Tbk",
+      "tanggal": "11 Jul 2012"
+    },
+    {
+      "kode": "GDST",
+      "nama": "Gunawan Dianjaya Steel Tbk",
+      "tanggal": "23 Des 2009"
+    },
+    {
+      "kode": "GDYR",
+      "nama": "Goodyear Indonesia Tbk",
+      "tanggal": "22 Des 1980"
+    },
+    {
+      "kode": "GEMA",
+      "nama": "Gema Grahasarana Tbk",
+      "tanggal": "12 Agt 2002"
+    },
+    {
+      "kode": "GEMS",
+      "nama": "Golden Energy Mines Tbk",
+      "tanggal": "17 Nov 2011"
+    },
+    {
+      "kode": "GGRM",
+      "nama": "Gudang Garam Tbk",
+      "tanggal": "27 Agt 1990"
+    },
+    {
+      "kode": "GGRP",
+      "nama": "PT Gunung Raja Paksi Tbk.",
+      "tanggal": "19 Sep 2019"
+    },
+    {
+      "kode": "GHON",
+      "nama": "PT Gihon Telekomunikasi Indonesia Tbk",
+      "tanggal": "09 Apr 2018"
+    },
+    {
+      "kode": "GIAA",
+      "nama": "Garuda Indonesia (Persero) Tbk",
+      "tanggal": "11 Feb 2011"
+    },
+    {
+      "kode": "GJTL",
+      "nama": "Gajah Tunggal Tbk",
+      "tanggal": "08 Mei 1990"
+    },
+    {
+      "kode": "GLOB",
+      "nama": "PT Globe Kita Terang Tbk",
+      "tanggal": "10 Jul 2012"
+    },
+    {
+      "kode": "GLVA",
+      "nama": "PT Galva Technologies Tbk",
+      "tanggal": "23 Des 2019"
+    },
+    {
+      "kode": "GMFI",
+      "nama": "PT Garuda Maintenance Facility Aero Asia Tbk.",
+      "tanggal": "10 Okt 2017"
+    },
+    {
+      "kode": "GMTD",
+      "nama": "Gowa Makassar Tourism Development Tbk",
+      "tanggal": "11 Des 2000"
+    },
+    {
+      "kode": "GOLD",
+      "nama": "PT Visi Telekomunikasi Infrastruktur Tbk.",
+      "tanggal": "07 Jul 2010"
+    },
+    {
+      "kode": "GOLF",
+      "nama": "PT Intra GolfLink Resorts Tbk",
+      "tanggal": "08 Jul 2024"
+    },
+    {
+      "kode": "GOLL",
+      "nama": "PT Golden Plantation Tbk",
+      "tanggal": "23 Des 2014"
+    },
+    {
+      "kode": "GOOD",
+      "nama": "PT Garudafood Putra Putri Jaya Tbk.",
+      "tanggal": "10 Okt 2018"
+    },
+    {
+      "kode": "GOTO",
+      "nama": "PT GoTo Gojek Tokopedia Tbk",
+      "tanggal": "11 Apr 2022"
+    },
+    {
+      "kode": "GPRA",
+      "nama": "Perdana Gapura Prima Tbk",
+      "tanggal": "10 Okt 2007"
+    },
+    {
+      "kode": "GPSO",
+      "nama": "PT Geoprima Solusi Tbk",
+      "tanggal": "06 Sep 2021"
+    },
+    {
+      "kode": "GRIA",
+      "nama": "PT Ingria Pratama Capitalindo Tbk",
+      "tanggal": "08 Agt 2023"
+    },
+    {
+      "kode": "GRPH",
+      "nama": "PT Griptha Putra Persada Tbk.",
+      "tanggal": "17 Jan 2024"
+    },
+    {
+      "kode": "GRPM",
+      "nama": "PT Graha Prima Mentari Tbk.",
+      "tanggal": "10 Jul 2023"
+    },
+    {
+      "kode": "GSMF",
+      "nama": "Equity Development Investment Tbk",
+      "tanggal": "23 Okt 1989"
+    },
+    {
+      "kode": "GTBO",
+      "nama": "Garda Tujuh Buana Tbk",
+      "tanggal": "09 Jul 2009"
+    },
+    {
+      "kode": "GTRA",
+      "nama": "PT Grahaprima Suksesmandiri Tbk",
+      "tanggal": "30 Mar 2023"
+    },
+    {
+      "kode": "GTSI",
+      "nama": "PT GTS Internasional Tbk",
+      "tanggal": "08 Sep 2021"
+    },
+    {
+      "kode": "GULA",
+      "nama": "PT Aman Agrindo Tbk",
+      "tanggal": "03 Agt 2022"
+    },
+    {
+      "kode": "GUNA",
+      "nama": "PT Gunanusa Eramandiri Tbk",
+      "tanggal": "09 Jul 2024"
+    },
+    {
+      "kode": "GWSA",
+      "nama": "PT Greenwood Sejahtera Tbk",
+      "tanggal": "23 Des 2011"
+    },
+    {
+      "kode": "GZCO",
+      "nama": "Gozco Plantations Tbk",
+      "tanggal": "15 Mei 2008"
+    },
+    {
+      "kode": "HADE",
+      "nama": "PT Himalaya Energi Perkasa Tbk",
+      "tanggal": "12 Apr 2004"
+    },
+    {
+      "kode": "HAIS",
+      "nama": "PT Hasnur Internasional Shipping Tbk",
+      "tanggal": "01 Sep 2021"
+    },
+    {
+      "kode": "HAJJ",
+      "nama": "PT Arsy Buana Travelindo Tbk",
+      "tanggal": "05 Apr 2023"
+    },
+    {
+      "kode": "HALO",
+      "nama": "PT Haloni Jane Tbk",
+      "tanggal": "08 Feb 2023"
+    },
+    {
+      "kode": "HATM",
+      "nama": "PT Habco Trans Maritima Tbk",
+      "tanggal": "26 Jul 2022"
+    },
+    {
+      "kode": "HBAT",
+      "nama": "PT Minahasa Membangun Hebat Tbk",
+      "tanggal": "07 Agt 2023"
+    },
+    {
+      "kode": "HDFA",
+      "nama": "Radana Bhaskara Finance Tbk",
+      "tanggal": "10 Mei 2011"
+    },
+    {
+      "kode": "HDIT",
+      "nama": "PT Hensel Davest Indonesia Tbk",
+      "tanggal": "12 Jul 2019"
+    },
+    {
+      "kode": "HEAL",
+      "nama": "PT Medikaloka Hermina Tbk.",
+      "tanggal": "16 Mei 2018"
+    },
+    {
+      "kode": "HELI",
+      "nama": "PT Jaya Trishindo Tbk",
+      "tanggal": "27 Mar 2018"
+    },
+    {
+      "kode": "HERO",
+      "nama": "PT DFI Retail Nusantara Tbk",
+      "tanggal": "21 Agt 1989"
+    },
+    {
+      "kode": "HEXA",
+      "nama": "Hexindo Adiperkasa Tbk",
+      "tanggal": "13 Feb 1995"
+    },
+    {
+      "kode": "HGII",
+      "nama": "PT Hero Global Investment Tbk",
+      "tanggal": "09 Jan 2025"
+    },
+    {
+      "kode": "HILL",
+      "nama": "PT Hillcon Tbk",
+      "tanggal": "01 Mar 2023"
+    },
+    {
+      "kode": "HITS",
+      "nama": "Humpuss Intermoda Transportasi Tbk",
+      "tanggal": "15 Des 1997"
+    },
+    {
+      "kode": "HKMU",
+      "nama": "PT HK Metals Utama Tbk",
+      "tanggal": "09 Okt 2018"
+    },
+    {
+      "kode": "HMSP",
+      "nama": "HM Sampoerna Tbk",
+      "tanggal": "15 Agt 1990"
+    },
+    {
+      "kode": "HOKI",
+      "nama": "PT Buyung Poetra Sembada Tbk.",
+      "tanggal": "22 Jun 2017"
+    },
+    {
+      "kode": "HOME",
+      "nama": "Hotel Mandarine Regency Tbk",
+      "tanggal": "17 Jul 2008"
+    },
+    {
+      "kode": "HOMI",
+      "nama": "PT Grand House Mulia Tbk",
+      "tanggal": "10 Sep 2020"
+    },
+    {
+      "kode": "HOPE",
+      "nama": "PT Harapan Duta Pertiwi Tbk.",
+      "tanggal": "24 Mei 2021"
+    },
+    {
+      "kode": "HOTL",
+      "nama": "Saraswati Griya Lestari Tbk",
+      "tanggal": "10 Jan 2013"
+    },
+    {
+      "kode": "HRME",
+      "nama": "PT Menteng Heritage Realty Tbk.",
+      "tanggal": "12 Apr 2019"
+    },
+    {
+      "kode": "HRTA",
+      "nama": "PT Hartadinata Abadi Tbk",
+      "tanggal": "21 Jun 2017"
+    },
+    {
+      "kode": "HRUM",
+      "nama": "Harum Energy Tbk",
+      "tanggal": "06 Okt 2010"
+    },
+    {
+      "kode": "HUMI",
+      "nama": "PT Humpuss Maritim Internasional Tbk",
+      "tanggal": "09 Agt 2023"
+    },
+    {
+      "kode": "HYGN",
+      "nama": "PT Ecocare Indo Pasifik Tbk.",
+      "tanggal": "13 Feb 2024"
+    },
+    {
+      "kode": "IATA",
+      "nama": "PT MNC Energy Investments Tbk",
+      "tanggal": "13 Sep 2006"
+    },
+    {
+      "kode": "IBFN",
+      "nama": "PT Intan Baru Prana Tbk",
+      "tanggal": "22 Des 2014"
+    },
+    {
+      "kode": "IBOS",
+      "nama": "PT Indo Boga Sukses Tbk",
+      "tanggal": "25 Apr 2022"
+    },
+    {
+      "kode": "IBST",
+      "nama": "Inti Bangun Sejahtera Tbk",
+      "tanggal": "31 Agt 2012"
+    },
+    {
+      "kode": "ICBP",
+      "nama": "Indofood CBP Sukses Makmur Tbk",
+      "tanggal": "07 Okt 2010"
+    },
+    {
+      "kode": "ICON",
+      "nama": "Island Concepts Indonesia Tbk",
+      "tanggal": "08 Jul 2005"
+    },
+    {
+      "kode": "IDEA",
+      "nama": "PT Idea Indonesia Akademi Tbk",
+      "tanggal": "09 Sep 2021"
+    },
+    {
+      "kode": "IDPR",
+      "nama": "PT Indonesia Pondasi Raya Tbk.",
+      "tanggal": "10 Des 2015"
+    },
+    {
+      "kode": "IFII",
+      "nama": "PT Indonesia Fibreboard Industry Tbk",
+      "tanggal": "10 Des 2019"
+    },
+    {
+      "kode": "IFSH",
+      "nama": "PT Ifishdeco Tbk.",
+      "tanggal": "05 Des 2019"
+    },
+    {
+      "kode": "IGAR",
+      "nama": "Champion Pacific Indonesia Tbk",
+      "tanggal": "05 Nov 1990"
+    },
+    {
+      "kode": "IIKP",
+      "nama": "Inti Agri Resources Tbk",
+      "tanggal": "14 Okt 2002"
+    },
+    {
+      "kode": "IKAI",
+      "nama": "Intikeramik Alamasri Industri Tbk",
+      "tanggal": "04 Jun 1997"
+    },
+    {
+      "kode": "IKAN",
+      "nama": "PT Era Mandiri Cemerlang Tbk",
+      "tanggal": "12 Feb 2020"
+    },
+    {
+      "kode": "IKBI",
+      "nama": "Sumi Indo Kabel Tbk",
+      "tanggal": "21 Jan 1991"
+    },
+    {
+      "kode": "IKPM",
+      "nama": "PT Ikapharmindo Putramas Tbk.",
+      "tanggal": "08 Nov 2023"
+    },
+    {
+      "kode": "IMAS",
+      "nama": "Indomobil Sukses Internasional Tbk",
+      "tanggal": "15 Nov 1993"
+    },
+    {
+      "kode": "IMJS",
+      "nama": "PT Indomobil Multi Jasa Tbk.",
+      "tanggal": "10 Des 2013"
+    },
+    {
+      "kode": "IMPC",
+      "nama": "PT Impack Pratama Industri Tbk",
+      "tanggal": "17 Des 2014"
+    },
+    {
+      "kode": "INAF",
+      "nama": "Indofarma Tbk.",
+      "tanggal": "17 Apr 2001"
+    },
+    {
+      "kode": "INAI",
+      "nama": "Indal Aluminium Industry Tbk",
+      "tanggal": "05 Des 1994"
+    },
+    {
+      "kode": "INCF",
+      "nama": "PT Indo Komoditi Korpora Tbk",
+      "tanggal": "06 Sep 2016"
+    },
+    {
+      "kode": "INCI",
+      "nama": "Intanwijaya Internasional Tbk",
+      "tanggal": "24 Jul 1990"
+    },
+    {
+      "kode": "INCO",
+      "nama": "Vale Indonesia Tbk",
+      "tanggal": "16 Mei 1990"
+    },
+    {
+      "kode": "INDF",
+      "nama": "Indofood Sukses Makmur Tbk",
+      "tanggal": "14 Jul 1994"
+    },
+    {
+      "kode": "INDO",
+      "nama": "PT Royalindo Investa Wijaya Tbk",
+      "tanggal": "13 Jan 2020"
+    },
+    {
+      "kode": "INDR",
+      "nama": "PT Indo-Rama Synthetics Tbk",
+      "tanggal": "03 Agt 1990"
+    },
+    {
+      "kode": "INDS",
+      "nama": "Indospring Tbk",
+      "tanggal": "10 Agt 1990"
+    },
+    {
+      "kode": "INDX",
+      "nama": "Tanah Laut Tbk",
+      "tanggal": "17 Mei 2001"
+    },
+    {
+      "kode": "INDY",
+      "nama": "Indika Energy Tbk",
+      "tanggal": "11 Jun 2008"
+    },
+    {
+      "kode": "INET",
+      "nama": "PT Sinergi Inti Andalan Prima Tbk.",
+      "tanggal": "24 Jul 2023"
+    },
+    {
+      "kode": "INKP",
+      "nama": "Indah Kiat Pulp & Paper Tbk",
+      "tanggal": "16 Jul 1990"
+    },
+    {
+      "kode": "INOV",
+      "nama": "PT Inocycle Technology Group Tbk.",
+      "tanggal": "10 Jul 2019"
+    },
+    {
+      "kode": "INPC",
+      "nama": "Bank Artha Graha Internasional Tbk",
+      "tanggal": "23 Agt 1990"
+    },
+    {
+      "kode": "INPP",
+      "nama": "Indonesian Paradise Property Tbk",
+      "tanggal": "12 Jan 2004"
+    },
+    {
+      "kode": "INPS",
+      "nama": "PT Indah Prakasa Sentosa Tbk.",
+      "tanggal": "06 Apr 2018"
+    },
+    {
+      "kode": "INRU",
+      "nama": "Toba Pulp Lestari Tbk",
+      "tanggal": "18 Jun 1990"
+    },
+    {
+      "kode": "INTA",
+      "nama": "Intraco Penta Tbk",
+      "tanggal": "23 Agt 1993"
+    },
+    {
+      "kode": "INTD",
+      "nama": "Inter-Delta Tbk",
+      "tanggal": "18 Des 1989"
+    },
+    {
+      "kode": "INTP",
+      "nama": "Indocement Tunggal Prakarsa Tbk",
+      "tanggal": "05 Des 1989"
+    },
+    {
+      "kode": "IOTF",
+      "nama": "PT Sumber Sinergi Makmur Tbk",
+      "tanggal": "06 Okt 2023"
+    },
+    {
+      "kode": "IPAC",
+      "nama": "PT Era Graharealty Tbk",
+      "tanggal": "30 Jun 2021"
+    },
+    {
+      "kode": "IPCC",
+      "nama": "PT Indonesia Kendaraan Terminal Tbk.",
+      "tanggal": "09 Jul 2018"
+    },
+    {
+      "kode": "IPCM",
+      "nama": "PT Jasa Armada Indonesia Tbk.",
+      "tanggal": "22 Des 2017"
+    },
+    {
+      "kode": "IPOL",
+      "nama": "Indopoly Swakarsa Industry Tbk",
+      "tanggal": "09 Jul 2010"
+    },
+    {
+      "kode": "IPPE",
+      "nama": "PT Indo Pureco Pratama Tbk",
+      "tanggal": "09 Des 2021"
+    },
+    {
+      "kode": "IPTV",
+      "nama": "PT MNC Vision Networks Tbk.",
+      "tanggal": "08 Jul 2019"
+    },
+    {
+      "kode": "IRRA",
+      "nama": "PT Itama Ranoraya Tbk.",
+      "tanggal": "15 Okt 2019"
+    },
+    {
+      "kode": "IRSX",
+      "nama": "PT Folago Global Nusantara Tbk",
+      "tanggal": "07 Feb 2023"
+    },
+    {
+      "kode": "ISAP",
+      "nama": "PT Isra Presisi Indonesia Tbk",
+      "tanggal": "09 Des 2022"
+    },
+    {
+      "kode": "ISAT",
+      "nama": "PT Indosat Tbk",
+      "tanggal": "19 Okt 1994"
+    },
+    {
+      "kode": "ISEA",
+      "nama": "PT Indo American Seafoods Tbk",
+      "tanggal": "08 Jul 2024"
+    },
+    {
+      "kode": "ISSP",
+      "nama": "PT Steel Pipe Industry of Indonesia Tbk",
+      "tanggal": "22 Feb 2013"
+    },
+    {
+      "kode": "ITIC",
+      "nama": "PT Indonesian Tobacco Tbk.",
+      "tanggal": "04 Jul 2019"
+    },
+    {
+      "kode": "ITMA",
+      "nama": "SUMBER ENERGI ANDALAN Tbk",
+      "tanggal": "10 Des 1990"
+    },
+    {
+      "kode": "ITMG",
+      "nama": "Indo Tambangraya Megah Tbk",
+      "tanggal": "18 Des 2007"
+    },
+    {
+      "kode": "JARR",
+      "nama": "PT Jhonlin Agro Raya Tbk",
+      "tanggal": "04 Agt 2022"
+    },
+    {
+      "kode": "JAST",
+      "nama": "PT Jasnita Telekomindo Tbk.",
+      "tanggal": "16 Mei 2019"
+    },
+    {
+      "kode": "JATI",
+      "nama": "PT Informasi Teknologi Indonesia Tbk.",
+      "tanggal": "08 Mei 2023"
+    },
+    {
+      "kode": "JAWA",
+      "nama": "Jaya Agra Wattie Tbk",
+      "tanggal": "30 Mei 2011"
+    },
+    {
+      "kode": "JAYA",
+      "nama": "PT Armada Berjaya Trans Tbk.",
+      "tanggal": "21 Feb 2019"
+    },
+    {
+      "kode": "JECC",
+      "nama": "Jembo Cable Company Tbk",
+      "tanggal": "18 Nov 1992"
+    },
+    {
+      "kode": "JGLE",
+      "nama": "PT Graha Andrasentra Propertindo Tbk.",
+      "tanggal": "29 Jun 2016"
+    },
+    {
+      "kode": "JIHD",
+      "nama": "Jakarta International Hotels & Development Tbk",
+      "tanggal": "29 Feb 1984"
+    },
+    {
+      "kode": "JKON",
+      "nama": "Jaya Konstruksi Manggala Pratama Tbk",
+      "tanggal": "04 Des 2007"
+    },
+    {
+      "kode": "JMAS",
+      "nama": "PT Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk",
+      "tanggal": "18 Des 2017"
+    },
+    {
+      "kode": "JPFA",
+      "nama": "JAPFA Comfeed Indonesia Tbk",
+      "tanggal": "23 Okt 1989"
+    },
+    {
+      "kode": "JRPT",
+      "nama": "Jaya Real Property Tbk",
+      "tanggal": "29 Jun 1994"
+    },
+    {
+      "kode": "JSKY",
+      "nama": "PT Sky Energy Indonesia Tbk.",
+      "tanggal": "28 Mar 2018"
+    },
+    {
+      "kode": "JSMR",
+      "nama": "PT Jasa Marga Tbk",
+      "tanggal": "12 Nov 2007"
+    },
+    {
+      "kode": "JSPT",
+      "nama": "Jakarta Setiabudi Internasional Tbk",
+      "tanggal": "12 Jan 1998"
+    },
+    {
+      "kode": "JTPE",
+      "nama": "Jasuindo Tiga Perkasa Tbk",
+      "tanggal": "16 Apr 2002"
+    },
+    {
+      "kode": "KAEF",
+      "nama": "Kimia Farma Tbk.",
+      "tanggal": "04 Jul 2001"
+    },
+    {
+      "kode": "KAQI",
+      "nama": "PT Jantra Grupo Indonesia Tbk",
+      "tanggal": "10 Mar 2025"
+    },
+    {
+      "kode": "KARW",
+      "nama": "Meratus Jasa Prima Tbk",
+      "tanggal": "20 Des 1994"
+    },
+    {
+      "kode": "KAYU",
+      "nama": "PT Darmi Bersaudara Tbk.",
+      "tanggal": "04 Jul 2019"
+    },
+    {
+      "kode": "KBAG",
+      "nama": "PT Karya Bersama Anugerah Tbk",
+      "tanggal": "08 Apr 2020"
+    },
+    {
+      "kode": "KBLI",
+      "nama": "KMI Wire and Cable Tbk",
+      "tanggal": "06 Jul 1992"
+    },
+    {
+      "kode": "KBLM",
+      "nama": "Kabelindo Murni Tbk",
+      "tanggal": "01 Jun 1992"
+    },
+    {
+      "kode": "KBLV",
+      "nama": "First Media Tbk",
+      "tanggal": "25 Feb 2000"
+    },
+    {
+      "kode": "KBRI",
+      "nama": "Kertas Basuki Rachmat Indonesia Tbk",
+      "tanggal": "11 Jul 2008"
+    },
+    {
+      "kode": "KDSI",
+      "nama": "Kedawung Setia Industrial Tbk",
+      "tanggal": "29 Jul 1996"
+    },
+    {
+      "kode": "KDTN",
+      "nama": "PT Puri Sentul Permai Tbk",
+      "tanggal": "09 Nov 2022"
+    },
+    {
+      "kode": "KEEN",
+      "nama": "PT Kencana Energi Lestari Tbk.",
+      "tanggal": "02 Sep 2019"
+    },
+    {
+      "kode": "KEJU",
+      "nama": "PT Mulia Boga Raya Tbk",
+      "tanggal": "25 Nov 2019"
+    },
+    {
+      "kode": "KETR",
+      "nama": "PT Ketrosden Triasmitra Tbk",
+      "tanggal": "11 Jan 2021"
+    },
+    {
+      "kode": "KIAS",
+      "nama": "Keramika Indonesia Assosiasi Tbk",
+      "tanggal": "08 Des 1994"
+    },
+    {
+      "kode": "KICI",
+      "nama": "Kedaung Indah Can Tbk",
+      "tanggal": "28 Okt 1993"
+    },
+    {
+      "kode": "KIJA",
+      "nama": "Kawasan Industri Jababeka Tbk",
+      "tanggal": "10 Jan 1995"
+    },
+    {
+      "kode": "KING",
+      "nama": "PT Hoffmen Cleanindo Tbk",
+      "tanggal": "16 Feb 2023"
+    },
+    {
+      "kode": "KINO",
+      "nama": "PT Kino Indonesia Tbk",
+      "tanggal": "11 Des 2015"
+    },
+    {
+      "kode": "KIOS",
+      "nama": "PT Kioson Komersial Indonesia Tbk.",
+      "tanggal": "05 Okt 2017"
+    },
+    {
+      "kode": "KJEN",
+      "nama": "PT Krida Jaringan Nusantara Tbk.",
+      "tanggal": "01 Jul 2019"
+    },
+    {
+      "kode": "KKES",
+      "nama": "PT Kusuma Kemindo Sentosa Tbk",
+      "tanggal": "08 Agt 2022"
+    },
+    {
+      "kode": "KKGI",
+      "nama": "Resource Alam Indonesia Tbk",
+      "tanggal": "01 Jul 1991"
+    },
+    {
+      "kode": "KLAS",
+      "nama": "PT Pelayaran Kurnia Lautan Semesta Tbk",
+      "tanggal": "12 Jun 2023"
+    },
+    {
+      "kode": "KLBF",
+      "nama": "Kalbe Farma Tbk",
+      "tanggal": "30 Jul 1991"
+    },
+    {
+      "kode": "KLIN",
+      "nama": "PT Klinko Karya Imaji Tbk",
+      "tanggal": "09 Agt 2022"
+    },
+    {
+      "kode": "KMDS",
+      "nama": "PT Kurniamitra Duta Sentosa Tbk.",
+      "tanggal": "07 Sep 2020"
+    },
+    {
+      "kode": "KMTR",
+      "nama": "PT Kirana Megatara Tbk.",
+      "tanggal": "19 Jun 2017"
+    },
+    {
+      "kode": "KOBX",
+      "nama": "Kobexindo Tractors Tbk",
+      "tanggal": "05 Jul 2012"
+    },
+    {
+      "kode": "KOCI",
+      "nama": "PT Kokoh Exa Nusantara",
+      "tanggal": "07 Okt 2023"
+    },
+    {
+      "kode": "KOIN",
+      "nama": "Kokoh Inti Arebama Tbk",
+      "tanggal": "09 Apr 2008"
+    },
+    {
+      "kode": "KOKA",
+      "nama": "PT Koka Indonesia Tbk.",
+      "tanggal": "11 Okt 2023"
+    },
+    {
+      "kode": "KONI",
+      "nama": "Perdana Bangun Pusaka Tbk",
+      "tanggal": "22 Agt 1995"
+    },
+    {
+      "kode": "KOPI",
+      "nama": "PT Mitra Energi Persada Tbk",
+      "tanggal": "04 Mei 2015"
+    },
+    {
+      "kode": "KOTA",
+      "nama": "PT DMS Propertindo Tbk.",
+      "tanggal": "09 Jul 2019"
+    },
+    {
+      "kode": "KPIG",
+      "nama": "MNC Tourism Indonesia Tbk",
+      "tanggal": "30 Mar 2000"
+    },
+    {
+      "kode": "KRAS",
+      "nama": "Krakatau Steel (Persero) Tbk",
+      "tanggal": "10 Nov 2010"
+    },
+    {
+      "kode": "KREN",
+      "nama": "PT Quantum Clovera Investama Tbk.",
+      "tanggal": "28 Jun 2002"
+    },
+    {
+      "kode": "KRYA",
+      "nama": "PT Bangun Karya Perkasa Jaya Tbk",
+      "tanggal": "25 Jul 2022"
+    },
+    {
+      "kode": "KSIX",
+      "nama": "PT Kentanix Supra International Tbk",
+      "tanggal": "08 Jan 2025"
+    },
+    {
+      "kode": "KUAS",
+      "nama": "PT Ace Oldfields Tbk",
+      "tanggal": "25 Okt 2021"
+    },
+    {
+      "kode": "LABA",
+      "nama": "PT Green Power Group Tbk",
+      "tanggal": "10 Jun 2021"
+    },
+    {
+      "kode": "LABS",
+      "nama": "PT UBC Medical Indonesia Tbk",
+      "tanggal": "10 Jul 2024"
+    },
+    {
+      "kode": "LAJU",
+      "nama": "PT Jasa Berdikari Logistics Tbk",
+      "tanggal": "27 Jan 2023"
+    },
+    {
+      "kode": "LAND",
+      "nama": "PT Trimitra Propertindo Tbk.",
+      "tanggal": "23 Agt 2018"
+    },
+    {
+      "kode": "LAPD",
+      "nama": "Leyand International Tbk",
+      "tanggal": "17 Jul 2001"
+    },
+    {
+      "kode": "LCGP",
+      "nama": "PT Eureka Prima Jakarta Tbk.",
+      "tanggal": "13 Jul 2007"
+    },
+    {
+      "kode": "LCKM",
+      "nama": "PT LCK Global Kedaton Tbk",
+      "tanggal": "16 Jan 2018"
+    },
+    {
+      "kode": "LEAD",
+      "nama": "PT Logindo Samudramakmur Tbk.",
+      "tanggal": "11 Des 2013"
+    },
+    {
+      "kode": "LFLO",
+      "nama": "PT Imago Mulia Persada Tbk",
+      "tanggal": "07 Apr 2021"
+    },
+    {
+      "kode": "LIFE",
+      "nama": "PT MSIG Life Insurance Indonesia Tbk.",
+      "tanggal": "09 Jul 2019"
+    },
+    {
+      "kode": "LINK",
+      "nama": "PT Link Net Tbk.",
+      "tanggal": "02 Jun 2014"
+    },
+    {
+      "kode": "LION",
+      "nama": "Lion Metal Works Tbk",
+      "tanggal": "20 Agt 1993"
+    },
+    {
+      "kode": "LIVE",
+      "nama": "PT Homeco Victoria Makmur Tbk",
+      "tanggal": "12 Feb 2024"
+    },
+    {
+      "kode": "LMAS",
+      "nama": "Limas Indonesia Makmur Tbk",
+      "tanggal": "28 Des 2001"
+    },
+    {
+      "kode": "LMAX",
+      "nama": "PT Lupromax Pelumas Indonesia Tbk.",
+      "tanggal": "09 Agt 2023"
+    },
+    {
+      "kode": "LMPI",
+      "nama": "Langgeng Makmur Industri Tbk",
+      "tanggal": "17 Okt 1994"
+    },
+    {
+      "kode": "LMSH",
+      "nama": "Lionmesh Prima Tbk",
+      "tanggal": "04 Jun 1990"
+    },
+    {
+      "kode": "LOPI",
+      "nama": "PT Logisticsplus International Tbk",
+      "tanggal": "11 Okt 2023"
+    },
+    {
+      "kode": "LPCK",
+      "nama": "Lippo Cikarang Tbk",
+      "tanggal": "24 Jul 1997"
+    },
+    {
+      "kode": "LPGI",
+      "nama": "Lippo General Insurance Tbk",
+      "tanggal": "22 Jul 1997"
+    },
+    {
+      "kode": "LPIN",
+      "nama": "Multi Prima Sejahtera Tbk",
+      "tanggal": "05 Feb 1990"
+    },
+    {
+      "kode": "LPKR",
+      "nama": "Lippo Karawaci Tbk",
+      "tanggal": "28 Jun 1996"
+    },
+    {
+      "kode": "LPLI",
+      "nama": "Star Pacific Tbk",
+      "tanggal": "23 Okt 1989"
+    },
+    {
+      "kode": "LPPF",
+      "nama": "Matahari Department Store Tbk",
+      "tanggal": "09 Okt 1989"
+    },
+    {
+      "kode": "LPPS",
+      "nama": "PT Lenox Pasifik Investama Tbk",
+      "tanggal": "28 Mar 1994"
+    },
+    {
+      "kode": "LRNA",
+      "nama": "PT Eka Sari Lorena Transport Tbk.",
+      "tanggal": "15 Apr 2014"
+    },
+    {
+      "kode": "LSIP",
+      "nama": "PP London Sumatra Indonesia Tbk",
+      "tanggal": "05 Jul 1996"
+    },
+    {
+      "kode": "LTLS",
+      "nama": "PT Lautan Luas Tbk",
+      "tanggal": "21 Jul 1997"
+    },
+    {
+      "kode": "LUCK",
+      "nama": "PT Sentral Mitra Informatika Tbk.",
+      "tanggal": "28 Nov 2018"
+    },
+    {
+      "kode": "LUCY",
+      "nama": "PT Lima Dua Lima Tiga Tbk",
+      "tanggal": "05 Mei 2021"
+    },
+    {
+      "kode": "MABA",
+      "nama": "PT Marga Abhinaya Abadi Tbk",
+      "tanggal": "22 Jun 2017"
+    },
+    {
+      "kode": "MAGP",
+      "nama": "Multi Agro Gemilang Plantation Tbk",
+      "tanggal": "16 Jan 2013"
+    },
+    {
+      "kode": "MAHA",
+      "nama": "PT Mandiri Herindo Adiperkasa Tbk",
+      "tanggal": "25 Jul 2023"
+    },
+    {
+      "kode": "MAIN",
+      "nama": "Malindo Feedmill Tbk",
+      "tanggal": "10 Feb 2006"
+    },
+    {
+      "kode": "MANG",
+      "nama": "PT Manggung Polahraya Tbk",
+      "tanggal": "11 Jan 2024"
+    },
+    {
+      "kode": "MAPA",
+      "nama": "PT Map Aktif Adiperkasa Tbk",
+      "tanggal": "05 Jul 2018"
+    },
+    {
+      "kode": "MAPB",
+      "nama": "PT Map Boga Adiperkasa Tbk",
+      "tanggal": "21 Jun 2017"
+    },
+    {
+      "kode": "MAPI",
+      "nama": "PT Mitra Adiperkasa Tbk",
+      "tanggal": "10 Nov 2004"
+    },
+    {
+      "kode": "MARI",
+      "nama": "PT Mahaka Radio Integra Tbk.",
+      "tanggal": "11 Feb 2016"
+    },
+    {
+      "kode": "MARK",
+      "nama": "PT Mark Dynamics Indonesia Tbk.",
+      "tanggal": "12 Jul 2017"
+    },
+    {
+      "kode": "MASB",
+      "nama": "PT Bank Multiarta Sentosa Tbk",
+      "tanggal": "30 Jun 2021"
+    },
+    {
+      "kode": "MAXI",
+      "nama": "PT Maxindo Karya Anugerah Tbk",
+      "tanggal": "12 Jun 2023"
+    },
+    {
+      "kode": "MAYA",
+      "nama": "PT Bank Mayapada Internasional Tbk",
+      "tanggal": "29 Agt 1997"
+    },
+    {
+      "kode": "MBAP",
+      "nama": "PT Mitrabara Adiperdana Tbk",
+      "tanggal": "10 Jul 2014"
+    },
+    {
+      "kode": "MBMA",
+      "nama": "PT Merdeka Battery Materials Tbk",
+      "tanggal": "18 Apr 2023"
+    },
+    {
+      "kode": "MBSS",
+      "nama": "Mitrabahtera Segara Sejati Tbk",
+      "tanggal": "06 Apr 2011"
+    },
+    {
+      "kode": "MBTO",
+      "nama": "Martina Berto Tbk",
+      "tanggal": "13 Jan 2011"
+    },
+    {
+      "kode": "MCAS",
+      "nama": "PT M Cash Integrasi Tbk",
+      "tanggal": "01 Nov 2017"
+    },
+    {
+      "kode": "MCOL",
+      "nama": "PT Prima Andalan Mandiri Tbk",
+      "tanggal": "07 Sep 2021"
+    },
+    {
+      "kode": "MCOR",
+      "nama": "PT Bank China Construction Bank Indonesia Tbk",
+      "tanggal": "03 Jul 2007"
+    },
+    {
+      "kode": "MDIA",
+      "nama": "PT Intermedia Capital Tbk.",
+      "tanggal": "11 Apr 2014"
+    },
+    {
+      "kode": "MDIY",
+      "nama": "PT Daya Intiguna Yasa Tbk",
+      "tanggal": "19 Des 2024"
+    },
+    {
+      "kode": "MDKA",
+      "nama": "PT Merdeka Copper Gold Tbk.",
+      "tanggal": "19 Jun 2015"
+    },
+    {
+      "kode": "MDKI",
+      "nama": "PT Emdeki Utama Tbk",
+      "tanggal": "25 Sep 2017"
+    },
+    {
+      "kode": "MDLA",
+      "nama": "PT Medela Potentia Tbk",
+      "tanggal": "15 Apr 2025"
+    },
+    {
+      "kode": "MDLN",
+      "nama": "PT Modernland Realty Tbk.",
+      "tanggal": "18 Jan 1993"
+    },
+    {
+      "kode": "MDRN",
+      "nama": "Modern Internasional Tbk",
+      "tanggal": "16 Jul 1991"
+    },
+    {
+      "kode": "MEDC",
+      "nama": "PT Medco Energi Internasional Tbk",
+      "tanggal": "12 Okt 1994"
+    },
+    {
+      "kode": "MEDS",
+      "nama": "PT Hetzer Medical Indonesia Tbk",
+      "tanggal": "10 Agt 2022"
+    },
+    {
+      "kode": "MEGA",
+      "nama": "Bank Mega Tbk",
+      "tanggal": "17 Apr 2000"
+    },
+    {
+      "kode": "MEJA",
+      "nama": "PT Harta Djaya Karya Tbk",
+      "tanggal": "12 Feb 2024"
+    },
+    {
+      "kode": "MENN",
+      "nama": "PT Menn Teknologi Indonesia Tbk.",
+      "tanggal": "18 Apr 2023"
+    },
+    {
+      "kode": "MERI",
+      "nama": "PT Merry Riana Edukasi Tbk",
+      "tanggal": "10 Jul 2025"
+    },
+    {
+      "kode": "MERK",
+      "nama": "Merck Tbk",
+      "tanggal": "23 Jul 1981"
+    },
+    {
+      "kode": "META",
+      "nama": "Nusantara Infrastructure Tbk",
+      "tanggal": "18 Jul 2001"
+    },
+    {
+      "kode": "MFIN",
+      "nama": "PT Adira Dinamika Multi Finance Tbk",
+      "tanggal": "06 Sep 2005"
+    },
+    {
+      "kode": "MFMI",
+      "nama": "Multifiling Mitra Indonesia Tbk",
+      "tanggal": "29 Des 2010"
+    },
+    {
+      "kode": "MGLV",
+      "nama": "PT Panca Anugrah Wisesa Tbk",
+      "tanggal": "08 Jun 2021"
+    },
+    {
+      "kode": "MGNA",
+      "nama": "PT Magna Investama Mandiri Tbk",
+      "tanggal": "08 Jul 2014"
+    },
+    {
+      "kode": "MGRO",
+      "nama": "PT Mahkota Group Tbk.",
+      "tanggal": "12 Jul 2018"
+    },
+    {
+      "kode": "MHKI",
+      "nama": "PT Multi Hanna Kreasindo Tbk",
+      "tanggal": "16 Apr 2024"
+    },
+    {
+      "kode": "MICE",
+      "nama": "Multi Indocitra Tbk",
+      "tanggal": "21 Des 2005"
+    },
+    {
+      "kode": "MIDI",
+      "nama": "Midi Utama Indonesia Tbk",
+      "tanggal": "30 Nov 2010"
+    },
+    {
+      "kode": "MIKA",
+      "nama": "PT Mitra Keluarga Karyasehat Tbk.",
+      "tanggal": "24 Mar 2015"
+    },
+    {
+      "kode": "MINA",
+      "nama": "PT Sanurhasta Mitra Tbk.",
+      "tanggal": "28 Apr 2017"
+    },
+    {
+      "kode": "MINE",
+      "nama": "PT Sinar Terang Mandiri Tbk",
+      "tanggal": "10 Mar 2025"
+    },
+    {
+      "kode": "MIRA",
+      "nama": "Mitra International Resources Tbk",
+      "tanggal": "30 Jan 1997"
+    },
+    {
+      "kode": "MITI",
+      "nama": "Mitra Investindo Tbk",
+      "tanggal": "16 Jul 1997"
+    },
+    {
+      "kode": "MKAP",
+      "nama": "PT Multikarya Asia Pasifik Raya Tbk",
+      "tanggal": "12 Feb 2024"
+    },
+    {
+      "kode": "MKNT",
+      "nama": "PT Mitra Komunikasi Nusantara Tbk.",
+      "tanggal": "26 Okt 2015"
+    },
+    {
+      "kode": "MKPI",
+      "nama": "Metropolitan Kentjana Tbk",
+      "tanggal": "10 Jul 2009"
+    },
+    {
+      "kode": "MKTR",
+      "nama": "PT Menthobi Karyatama Raya Tbk",
+      "tanggal": "08 Nov 2022"
+    },
+    {
+      "kode": "MLBI",
+      "nama": "Multi Bintang Indonesia Tbk",
+      "tanggal": "15 Des 1981"
+    },
+    {
+      "kode": "MLIA",
+      "nama": "Mulia Industrindo Tbk",
+      "tanggal": "17 Jan 1994"
+    },
+    {
+      "kode": "MLPL",
+      "nama": "Multipolar Tbk",
+      "tanggal": "06 Nov 1989"
+    },
+    {
+      "kode": "MLPT",
+      "nama": "PT Multipolar Technology Tbk.",
+      "tanggal": "08 Jul 2013"
+    },
+    {
+      "kode": "MMIX",
+      "nama": "PT Multi Medika Internasional Tbk",
+      "tanggal": "06 Des 2022"
+    },
+    {
+      "kode": "MMLP",
+      "nama": "PT Mega Manunggal Property Tbk.",
+      "tanggal": "12 Jun 2015"
+    },
+    {
+      "kode": "MNCN",
+      "nama": "Media Nusantara Citra Tbk",
+      "tanggal": "22 Jun 2007"
+    },
+    {
+      "kode": "MOLI",
+      "nama": "PT Madusari Murni Indah Tbk.",
+      "tanggal": "30 Agt 2018"
+    },
+    {
+      "kode": "MORA",
+      "nama": "PT Mora Telematika Indonesia Tbk",
+      "tanggal": "08 Agt 2022"
+    },
+    {
+      "kode": "MPIX",
+      "nama": "PT Mitra Pedagang Indonesia Tbk.",
+      "tanggal": "07 Feb 2024"
+    },
+    {
+      "kode": "MPMX",
+      "nama": "PT Mitra Pinasthika Mustika Tbk.",
+      "tanggal": "29 Mei 2013"
+    },
+    {
+      "kode": "MPOW",
+      "nama": "PT Megapower Makmur Tbk.",
+      "tanggal": "05 Jul 2017"
+    },
+    {
+      "kode": "MPPA",
+      "nama": "Matahari Putra Prima Tbk",
+      "tanggal": "21 Des 1992"
+    },
+    {
+      "kode": "MPRO",
+      "nama": "PT Maha Properti Indonesia Tbk.",
+      "tanggal": "09 Okt 2018"
+    },
+    {
+      "kode": "MPXL",
+      "nama": "PT MPX Logistics International Tbk",
+      "tanggal": "09 Mei 2023"
+    },
+    {
+      "kode": "MRAT",
+      "nama": "Mustika Ratu Tbk",
+      "tanggal": "27 Jul 1995"
+    },
+    {
+      "kode": "MREI",
+      "nama": "Maskapai Reasuransi Indonesia Tbk",
+      "tanggal": "04 Sep 1989"
+    },
+    {
+      "kode": "MSIE",
+      "nama": "PT Multisarana Intan Eduka Tbk",
+      "tanggal": "10 Agt 2023"
+    },
+    {
+      "kode": "MSIN",
+      "nama": "PT MNC Digital Entertainment Tbk",
+      "tanggal": "08 Jun 2018"
+    },
+    {
+      "kode": "MSJA",
+      "nama": "PT Multi Spunindo Jaya Tbk.",
+      "tanggal": "10 Jan 2024"
+    },
+    {
+      "kode": "MSKY",
+      "nama": "MNC Sky Vision Tbk",
+      "tanggal": "09 Jul 2012"
+    },
+    {
+      "kode": "MSTI",
+      "nama": "PT Mastersystem Infotama Tbk.",
+      "tanggal": "08 Nov 2023"
+    },
+    {
+      "kode": "MTDL",
+      "nama": "Metrodata Electronics Tbk",
+      "tanggal": "09 Apr 1990"
+    },
+    {
+      "kode": "MTEL",
+      "nama": "PT Dayamitra Telekomunikasi Tbk",
+      "tanggal": "22 Nov 2021"
+    },
+    {
+      "kode": "MTFN",
+      "nama": "Capitalinc Investment Tbk",
+      "tanggal": "16 Apr 1990"
+    },
+    {
+      "kode": "MTLA",
+      "nama": "Metropolitan Land Tbk",
+      "tanggal": "20 Jun 2011"
+    },
+    {
+      "kode": "MTMH",
+      "nama": "PT Murni Sadar Tbk",
+      "tanggal": "20 Apr 2022"
+    },
+    {
+      "kode": "MTPS",
+      "nama": "PT Meta Epsi Tbk.",
+      "tanggal": "10 Apr 2019"
+    },
+    {
+      "kode": "MTRA",
+      "nama": "PT Mitra Pemuda Tbk.",
+      "tanggal": "10 Feb 2016"
+    },
+    {
+      "kode": "MTSM",
+      "nama": "Metro Realty Tbk",
+      "tanggal": "08 Jan 1992"
+    },
+    {
+      "kode": "MTWI",
+      "nama": "PT Malacca Trust Wuwungan Insurance Tbk.",
+      "tanggal": "12 Okt 2017"
+    },
+    {
+      "kode": "MUTU",
+      "nama": "PT Mutuagung Lestari Tbk",
+      "tanggal": "09 Agt 2023"
+    },
+    {
+      "kode": "MYOH",
+      "nama": "Samindo Resources Tbk",
+      "tanggal": "27 Jul 2000"
+    },
+    {
+      "kode": "MYOR",
+      "nama": "Mayora Indah Tbk",
+      "tanggal": "04 Jul 1990"
+    },
+    {
+      "kode": "MYTX",
+      "nama": "PT Asia Pacific Investama Tbk.",
+      "tanggal": "10 Okt 1989"
+    },
+    {
+      "kode": "NAIK",
+      "nama": "PT Adiwarna Anugerah Abadi Tbk",
+      "tanggal": "13 Nov 2024"
+    },
+    {
+      "kode": "NANO",
+      "nama": "PT Nanotech Indonesia Global Tbk",
+      "tanggal": "10 Mar 2022"
+    },
+    {
+      "kode": "NASA",
+      "nama": "PT Andalan Perkasa Abadi Tbk",
+      "tanggal": "07 Agt 2017"
+    },
+    {
+      "kode": "NASI",
+      "nama": "PT Wahana Inti Makmur Tbk",
+      "tanggal": "13 Des 2021"
+    },
+    {
+      "kode": "NATO",
+      "nama": "PT Surya Permata Andalan Tbk",
+      "tanggal": "18 Jan 2019"
+    },
+    {
+      "kode": "NAYZ",
+      "nama": "PT Hassana Boga Sejahtera Tbk",
+      "tanggal": "06 Feb 2023"
+    },
+    {
+      "kode": "NCKL",
+      "nama": "PT Trimegah Bangun Persada Tbk.",
+      "tanggal": "12 Apr 2023"
+    },
+    {
+      "kode": "NELY",
+      "nama": "Pelayaran Nelly Dwi Putri Tbk",
+      "tanggal": "11 Okt 2012"
+    },
+    {
+      "kode": "NEST",
+      "nama": "PT Esta Indonesia Tbk",
+      "tanggal": "08 Agt 2024"
+    },
+    {
+      "kode": "NETV",
+      "nama": "PT MDTV Media Technologies Tbk",
+      "tanggal": "26 Jan 2022"
+    },
+    {
+      "kode": "NFCX",
+      "nama": "PT NFC Indonesia Tbk",
+      "tanggal": "12 Jul 2018"
+    },
+    {
+      "kode": "NICE",
+      "nama": "PT Adhi Kartiko Pratama Tbk",
+      "tanggal": "09 Jan 2024"
+    },
+    {
+      "kode": "NICK",
+      "nama": "PT Charnic Capital Tbk.",
+      "tanggal": "02 Mei 2018"
+    },
+    {
+      "kode": "NICL",
+      "nama": "PT PAM Mineral Tbk",
+      "tanggal": "09 Jul 2021"
+    },
+    {
+      "kode": "NIKL",
+      "nama": "Pelat Timah Nusantara Tbk",
+      "tanggal": "14 Des 2009"
+    },
+    {
+      "kode": "NINE",
+      "nama": "PT Techno9 Indonesia Tbk",
+      "tanggal": "05 Des 2022"
+    },
+    {
+      "kode": "NIRO",
+      "nama": "City Retail Developments Tbk",
+      "tanggal": "13 Sep 2012"
+    },
+    {
+      "kode": "NISP",
+      "nama": "PT Bank OCBC NISP Tbk",
+      "tanggal": "20 Okt 1994"
+    },
+    {
+      "kode": "NOBU",
+      "nama": "PT Bank Nationalnobu Tbk.",
+      "tanggal": "20 Mei 2013"
+    },
+    {
+      "kode": "NPGF",
+      "nama": "PT Nusa Palapa Gemilang Tbk",
+      "tanggal": "14 Apr 2021"
+    },
+    {
+      "kode": "NRCA",
+      "nama": "PT Nusa Raya Cipta Tbk.",
+      "tanggal": "27 Jun 2013"
+    },
+    {
+      "kode": "NSSS",
+      "nama": "PT Nusantara Sawit Sejahtera Tbk",
+      "tanggal": "10 Mar 2023"
+    },
+    {
+      "kode": "NTBK",
+      "nama": "PT Nusatama Berkah Tbk",
+      "tanggal": "09 Feb 2022"
+    },
+    {
+      "kode": "NUSA",
+      "nama": "PT Sinergi Megah Internusa Tbk",
+      "tanggal": "12 Jul 2018"
+    },
+    {
+      "kode": "NZIA",
+      "nama": "PT Nusantara Almazia, Tbk.",
+      "tanggal": "25 Sep 2019"
+    },
+    {
+      "kode": "OASA",
+      "nama": "PT Maharaksa Biru Energi Tbk",
+      "tanggal": "18 Jul 2016"
+    },
+    {
+      "kode": "OBAT",
+      "nama": "PT Brigit Biofarmaka Teknologi Tbk",
+      "tanggal": "13 Jan 2025"
+    },
+    {
+      "kode": "OBMD",
+      "nama": "PT OBM Drilchem Tbk",
+      "tanggal": "08 Des 2021"
+    },
+    {
+      "kode": "OCAP",
+      "nama": "ONIX CAPITAL Tbk",
+      "tanggal": "10 Okt 2003"
+    },
+    {
+      "kode": "OILS",
+      "nama": "PT Indo Oil Perkasa Tbk",
+      "tanggal": "06 Sep 2021"
+    },
+    {
+      "kode": "OKAS",
+      "nama": "Ancora Indonesia Resources Tbk",
+      "tanggal": "29 Mar 2006"
+    },
+    {
+      "kode": "OLIV",
+      "nama": "PT Oscar Mitra Sukses Sejahtera Tbk",
+      "tanggal": "17 Mei 2022"
+    },
+    {
+      "kode": "OMED",
+      "nama": "PT Jayamas Medica Industri Tbk",
+      "tanggal": "08 Nov 2022"
+    },
+    {
+      "kode": "OMRE",
+      "nama": "Indonesia Prima Property Tbk",
+      "tanggal": "22 Agt 1994"
+    },
+    {
+      "kode": "OPMS",
+      "nama": "PT Optima Prima Metal Sinergi Tbk.",
+      "tanggal": "23 Sep 2019"
+    },
+    {
+      "kode": "PACK",
+      "nama": "PT Abadi Nusantara Hijau Investama Tbk",
+      "tanggal": "08 Feb 2023"
+    },
+    {
+      "kode": "PADA",
+      "nama": "PT Personel Alih Daya Tbk",
+      "tanggal": "08 Des 2022"
+    },
+    {
+      "kode": "PADI",
+      "nama": "Minna Padi Investama Sekuritas Tbk",
+      "tanggal": "09 Jan 2012"
+    },
+    {
+      "kode": "PALM",
+      "nama": "PT Provident Investasi Bersama Tbk",
+      "tanggal": "08 Okt 2012"
+    },
+    {
+      "kode": "PAMG",
+      "nama": "PT Bima Sakti Pertiwi Tbk",
+      "tanggal": "05 Jul 2019"
+    },
+    {
+      "kode": "PANI",
+      "nama": "PT Pantai Indah Kapuk Dua Tbk.",
+      "tanggal": "18 Sep 2018"
+    },
+    {
+      "kode": "PANR",
+      "nama": "Panorama Sentrawisata Tbk",
+      "tanggal": "18 Sep 2001"
+    },
+    {
+      "kode": "PANS",
+      "nama": "Panin Sekuritas Tbk",
+      "tanggal": "31 Mei 2000"
+    },
+    {
+      "kode": "PART",
+      "nama": "PT Cipta Perdana Lancar Tbk",
+      "tanggal": "05 Jul 2024"
+    },
+    {
+      "kode": "PBID",
+      "nama": "PT Panca Budi Idaman Tbk",
+      "tanggal": "13 Des 2017"
+    },
+    {
+      "kode": "PBRX",
+      "nama": "Pan Brothers Tbk",
+      "tanggal": "16 Agt 1990"
+    },
+    {
+      "kode": "PBSA",
+      "nama": "PT Paramita Bangun Sarana Tbk",
+      "tanggal": "28 Sep 2016"
+    },
+    {
+      "kode": "PCAR",
+      "nama": "PT Prima Cakrawala Abadi Tbk",
+      "tanggal": "29 Des 2017"
+    },
+    {
+      "kode": "PDES",
+      "nama": "Destinasi Tirta Nusantara Tbk",
+      "tanggal": "08 Jul 2008"
+    },
+    {
+      "kode": "PDPP",
+      "nama": "PT Primadaya Plastisindo Tbk",
+      "tanggal": "09 Nov 2022"
+    },
+    {
+      "kode": "PEGE",
+      "nama": "PT Panca Global Kapital Tbk.",
+      "tanggal": "24 Jun 2005"
+    },
+    {
+      "kode": "PEHA",
+      "nama": "PT Phapros Tbk",
+      "tanggal": "26 Des 2018"
+    },
+    {
+      "kode": "PEVE",
+      "nama": "PT Penta Valent Tbk",
+      "tanggal": "24 Jan 2023"
+    },
+    {
+      "kode": "PGAS",
+      "nama": "PT Perusahaan Gas Negara Tbk.",
+      "tanggal": "15 Des 2003"
+    },
+    {
+      "kode": "PGEO",
+      "nama": "PT Pertamina Geothermal Energy Tbk",
+      "tanggal": "24 Feb 2023"
+    },
+    {
+      "kode": "PGJO",
+      "nama": "PT Bahtera Bumi Raya Tbk",
+      "tanggal": "08 Jan 2020"
+    },
+    {
+      "kode": "PGLI",
+      "nama": "Pembangunan Graha Lestari Indah Tbk",
+      "tanggal": "05 Apr 2000"
+    },
+    {
+      "kode": "PGUN",
+      "nama": "PT Pradiksi Gunatama Tbk",
+      "tanggal": "07 Jul 2020"
+    },
+    {
+      "kode": "PICO",
+      "nama": "Pelangi Indah Canindo Tbk",
+      "tanggal": "23 Sep 1996"
+    },
+    {
+      "kode": "PIPA",
+      "nama": "PT Multi Makmur Lemindo Tbk.",
+      "tanggal": "10 Apr 2023"
+    },
+    {
+      "kode": "PJAA",
+      "nama": "Pembangunan Jaya Ancol Tbk",
+      "tanggal": "02 Jul 2004"
+    },
+    {
+      "kode": "PJHB",
+      "nama": "PT Pelayaran Jaya Hidup Baru Tbk",
+      "tanggal": "06 Nov 2025"
+    },
+    {
+      "kode": "PKPK",
+      "nama": "Paragon Karya Perkasa Tbk",
+      "tanggal": "11 Jul 2007"
+    },
+    {
+      "kode": "PLAN",
+      "nama": "PT Planet Properindo Jaya Tbk",
+      "tanggal": "15 Sep 2020"
+    },
+    {
+      "kode": "PLAS",
+      "nama": "Polaris Investama Tbk",
+      "tanggal": "16 Mar 2001"
+    },
+    {
+      "kode": "PLIN",
+      "nama": "Plaza Indonesia Realty Tbk",
+      "tanggal": "15 Jun 1992"
+    },
+    {
+      "kode": "PMJS",
+      "nama": "PT Putra Mandiri Jembar Tbk",
+      "tanggal": "18 Des 2019"
+    },
+    {
+      "kode": "PMMP",
+      "nama": "PT Panca Mitra Multiperdana Tbk.",
+      "tanggal": "18 Des 2020"
+    },
+    {
+      "kode": "PMUI",
+      "nama": "PT Prima Multi Usaha Indonesia Tbk",
+      "tanggal": "10 Jul 2025"
+    },
+    {
+      "kode": "PNBN",
+      "nama": "Bank Pan Indonesia Tbk",
+      "tanggal": "29 Des 1982"
+    },
+    {
+      "kode": "PNBS",
+      "nama": "PT Bank Panin Dubai Syariah Tbk.",
+      "tanggal": "15 Jan 2014"
+    },
+    {
+      "kode": "PNGO",
+      "nama": "PT Pinago Utama Tbk",
+      "tanggal": "31 Agt 2020"
+    },
+    {
+      "kode": "PNIN",
+      "nama": "Paninvest Tbk",
+      "tanggal": "20 Sep 1983"
+    },
+    {
+      "kode": "PNLF",
+      "nama": "Panin Financial Tbk",
+      "tanggal": "14 Jun 1983"
+    },
+    {
+      "kode": "PNSE",
+      "nama": "Pudjiadi & Sons Tbk",
+      "tanggal": "01 Mei 1990"
+    },
+    {
+      "kode": "POLA",
+      "nama": "PT Pool Advista Finance Tbk.",
+      "tanggal": "16 Nov 2018"
+    },
+    {
+      "kode": "POLI",
+      "nama": "PT Pollux Hotels Group Tbk",
+      "tanggal": "10 Jan 2019"
+    },
+    {
+      "kode": "POLL",
+      "nama": "PT Pollux Properties Indonesia Tbk.",
+      "tanggal": "11 Jul 2018"
+    },
+    {
+      "kode": "POLU",
+      "nama": "PT Golden Flower Tbk.",
+      "tanggal": "26 Jun 2019"
+    },
+    {
+      "kode": "POLY",
+      "nama": "Asia Pacific Fibers Tbk",
+      "tanggal": "12 Mar 1991"
+    },
+    {
+      "kode": "POOL",
+      "nama": "Pool Advista Indonesia Tbk",
+      "tanggal": "20 Mei 1991"
+    },
+    {
+      "kode": "PORT",
+      "nama": "PT Nusantara Pelabuhan Handal Tbk.",
+      "tanggal": "16 Mar 2017"
+    },
+    {
+      "kode": "POSA",
+      "nama": "PT Bliss Properti Indonesia Tbk.",
+      "tanggal": "10 Mei 2019"
+    },
+    {
+      "kode": "POWR",
+      "nama": "PT Cikarang Listrindo Tbk.",
+      "tanggal": "14 Jun 2016"
+    },
+    {
+      "kode": "PPGL",
+      "nama": "PT Prima Globalindo Logistik Tbk.",
+      "tanggal": "20 Jul 2020"
+    },
+    {
+      "kode": "PPRE",
+      "nama": "PT PP Presisi Tbk.",
+      "tanggal": "24 Nov 2017"
+    },
+    {
+      "kode": "PPRI",
+      "nama": "PT Paperocks Indonesia Tbk.",
+      "tanggal": "08 Agt 2023"
+    },
+    {
+      "kode": "PPRO",
+      "nama": "PT PP Properti Tbk.",
+      "tanggal": "19 Mei 2015"
+    },
+    {
+      "kode": "PRAY",
+      "nama": "PT Famon Awal Bros Sedaya Tbk",
+      "tanggal": "08 Nov 2022"
+    },
+    {
+      "kode": "PRDA",
+      "nama": "PT Prodia Widyahusada Tbk.",
+      "tanggal": "07 Des 2016"
+    },
+    {
+      "kode": "PRIM",
+      "nama": "PT Royal Prima Tbk.",
+      "tanggal": "15 Mei 2018"
+    },
+    {
+      "kode": "PSAB",
+      "nama": "J RESOURCES ASIA PASIFIK Tbk",
+      "tanggal": "22 Apr 2003"
+    },
+    {
+      "kode": "PSAT",
+      "nama": "PT Pancaran Samudera Transport Tbk",
+      "tanggal": "08 Jul 2025"
+    },
+    {
+      "kode": "PSDN",
+      "nama": "Prasidha Aneka Niaga Tbk",
+      "tanggal": "18 Okt 1994"
+    },
+    {
+      "kode": "PSGO",
+      "nama": "PT Palma Serasih Tbk.",
+      "tanggal": "25 Nov 2019"
+    },
+    {
+      "kode": "PSKT",
+      "nama": "PT Red Planet Indonesia Tbk",
+      "tanggal": "19 Sep 1995"
+    },
+    {
+      "kode": "PSSI",
+      "nama": "PT IMC Pelita Logistik Tbk",
+      "tanggal": "05 Des 2017"
+    },
+    {
+      "kode": "PTBA",
+      "nama": "Bukit Asam Tbk",
+      "tanggal": "23 Des 2002"
+    },
+    {
+      "kode": "PTDU",
+      "nama": "PT Djasa Ubersakti Tbk",
+      "tanggal": "08 Des 2020"
+    },
+    {
+      "kode": "PTIS",
+      "nama": "Indo Straits Tbk",
+      "tanggal": "12 Jul 2011"
+    },
+    {
+      "kode": "PTMP",
+      "nama": "PT Mitra Pack Tbk.",
+      "tanggal": "06 Mar 2023"
+    },
+    {
+      "kode": "PTMR",
+      "nama": "PT Master Print Tbk",
+      "tanggal": "08 Okt 2024"
+    },
+    {
+      "kode": "PTPP",
+      "nama": "PP (Persero) Tbk",
+      "tanggal": "09 Feb 2010"
+    },
+    {
+      "kode": "PTPS",
+      "nama": "PT Pulau Subur Tbk.",
+      "tanggal": "09 Okt 2023"
+    },
+    {
+      "kode": "PTPW",
+      "nama": "PT Pratama Widya Tbk.",
+      "tanggal": "07 Feb 2020"
+    },
+    {
+      "kode": "PTRO",
+      "nama": "Petrosea Tbk",
+      "tanggal": "21 Mei 1990"
+    },
+    {
+      "kode": "PTSN",
+      "nama": "Sat Nusapersada Tbk",
+      "tanggal": "08 Nov 2007"
+    },
+    {
+      "kode": "PTSP",
+      "nama": "Pioneerindo Gourmet International Tbk",
+      "tanggal": "30 Mei 1994"
+    },
+    {
+      "kode": "PUDP",
+      "nama": "Pudjiadi Prestige Tbk",
+      "tanggal": "18 Nov 1994"
+    },
+    {
+      "kode": "PURA",
+      "nama": "PT Putra Rajawali Kencana Tbk.",
+      "tanggal": "29 Jan 2020"
+    },
+    {
+      "kode": "PURE",
+      "nama": "PT Trinitan Metals and Minerals Tbk",
+      "tanggal": "09 Okt 2019"
+    },
+    {
+      "kode": "PURI",
+      "nama": "PT Puri Global Sukses Tbk",
+      "tanggal": "08 Sep 2020"
+    },
+    {
+      "kode": "PWON",
+      "nama": "Pakuwon Jati Tbk",
+      "tanggal": "09 Okt 1989"
+    },
+    {
+      "kode": "PYFA",
+      "nama": "PT Pyridam Farma Tbk",
+      "tanggal": "16 Okt 2001"
+    },
+    {
+      "kode": "PZZA",
+      "nama": "PT Sarimelati Kencana Tbk.",
+      "tanggal": "23 Mei 2018"
+    },
+    {
+      "kode": "RAAM",
+      "nama": "PT Tripar Multivision Plus Tbk.",
+      "tanggal": "08 Mei 2023"
+    },
+    {
+      "kode": "RAFI",
+      "nama": "PT Sari Kreasi Boga Tbk",
+      "tanggal": "05 Agt 2022"
+    },
+    {
+      "kode": "RAJA",
+      "nama": "Rukun Raharja Tbk",
+      "tanggal": "19 Apr 2006"
+    },
+    {
+      "kode": "RALS",
+      "nama": "Ramayana Lestari Sentosa Tbk",
+      "tanggal": "24 Jul 1996"
+    },
+    {
+      "kode": "RANC",
+      "nama": "Supra Boga Lestari Tbk",
+      "tanggal": "07 Jun 2012"
+    },
+    {
+      "kode": "RATU",
+      "nama": "PT Raharja Energi Cepu Tbk",
+      "tanggal": "08 Jan 2025"
+    },
+    {
+      "kode": "RBMS",
+      "nama": "Ristia Bintang Mahkotasejati Tbk",
+      "tanggal": "19 Des 1997"
+    },
+    {
+      "kode": "RCCC",
+      "nama": "PT Utama Radar Cahaya Tbk",
+      "tanggal": "02 Agt 2022"
+    },
+    {
+      "kode": "RDTX",
+      "nama": "Roda Vivatex Tbk",
+      "tanggal": "14 Mei 1990"
+    },
+    {
+      "kode": "REAL",
+      "nama": "PT Repower Asia Indonesia Tbk.",
+      "tanggal": "06 Des 2019"
+    },
+    {
+      "kode": "RELF",
+      "nama": "PT Graha Mitra Asia Tbk.",
+      "tanggal": "22 Jun 2023"
+    },
+    {
+      "kode": "RELI",
+      "nama": "Reliance Sekuritas Indonesia Tbk",
+      "tanggal": "13 Jul 2005"
+    },
+    {
+      "kode": "RGAS",
+      "nama": "PT Kian Santang Muliatama Tbk.",
+      "tanggal": "08 Nov 2023"
+    },
+    {
+      "kode": "RICY",
+      "nama": "Ricky Putra Globalindo Tbk",
+      "tanggal": "22 Jan 1998"
+    },
+    {
+      "kode": "RIGS",
+      "nama": "Rig Tenders Tbk",
+      "tanggal": "05 Mar 1990"
+    },
+    {
+      "kode": "RIMO",
+      "nama": "PT Rimo International Lestari Tbk.",
+      "tanggal": "10 Nov 2000"
+    },
+    {
+      "kode": "RISE",
+      "nama": "PT Jaya Sukses Makmur Sentosa Tbk.",
+      "tanggal": "09 Jul 2018"
+    },
+    {
+      "kode": "RLCO",
+      "nama": "PT Abadi Lestari Indonesia Tbk",
+      "tanggal": "08 Des 2025"
+    },
+    {
+      "kode": "RMKE",
+      "nama": "PT RMK Energy Tbk",
+      "tanggal": "07 Des 2021"
+    },
+    {
+      "kode": "RMKO",
+      "nama": "PT Royaltama Mulia Kontraktorindo Tbk.",
+      "tanggal": "31 Jul 2023"
+    },
+    {
+      "kode": "ROCK",
+      "nama": "PT Rockfields Properti Indonesia Tbk.",
+      "tanggal": "10 Sep 2020"
+    },
+    {
+      "kode": "RODA",
+      "nama": "Pikko Land Development Tbk",
+      "tanggal": "22 Okt 2001"
+    },
+    {
+      "kode": "RONY",
+      "nama": "PT Aracord Nusantara Group Tbk",
+      "tanggal": "09 Apr 2020"
+    },
+    {
+      "kode": "ROTI",
+      "nama": "PT Nippon Indosari Corpindo Tbk",
+      "tanggal": "28 Jun 2010"
+    },
+    {
+      "kode": "RSCH",
+      "nama": "PT Charlie Hospital Semarang Tbk.",
+      "tanggal": "28 Agt 2023"
+    },
+    {
+      "kode": "RSGK",
+      "nama": "PT Kedoya Adyaraya Tbk",
+      "tanggal": "08 Sep 2021"
+    },
+    {
+      "kode": "RUIS",
+      "nama": "Radiant Utama Interinsco Tbk",
+      "tanggal": "12 Jul 2006"
+    },
+    {
+      "kode": "RUNS",
+      "nama": "PT Global Sukses Solusi Tbk",
+      "tanggal": "08 Sep 2021"
+    },
+    {
+      "kode": "SAFE",
+      "nama": "Steady Safe Tbk",
+      "tanggal": "15 Agt 1994"
+    },
+    {
+      "kode": "SAGE",
+      "nama": "PT Saptausaha Gemilangindah Tbk",
+      "tanggal": "08 Mar 2023"
+    },
+    {
+      "kode": "SAME",
+      "nama": "Sarana Meditama Metropolitan Tbk",
+      "tanggal": "11 Jan 2013"
+    },
+    {
+      "kode": "SAMF",
+      "nama": "PT Saraswanti Anugerah Makmur Tbk.",
+      "tanggal": "31 Mar 2020"
+    },
+    {
+      "kode": "SAPX",
+      "nama": "PT Satria Antaran Prima Tbk.",
+      "tanggal": "03 Okt 2018"
+    },
+    {
+      "kode": "SATU",
+      "nama": "PT Kota Satu Properti Tbk.",
+      "tanggal": "05 Nov 2018"
+    },
+    {
+      "kode": "SBAT",
+      "nama": "PT Sejahtera Bintang Abadi Textile Tbk.",
+      "tanggal": "08 Apr 2020"
+    },
+    {
+      "kode": "SBMA",
+      "nama": "PT Surya Biru Murni Acetylene Tbk",
+      "tanggal": "08 Sep 2021"
+    },
+    {
+      "kode": "SCCO",
+      "nama": "PT Supreme Cable Manufacturing & Commerce Tbk",
+      "tanggal": "20 Jul 1982"
+    },
+    {
+      "kode": "SCMA",
+      "nama": "Surya Citra Media Tbk",
+      "tanggal": "16 Jul 2002"
+    },
+    {
+      "kode": "SCNP",
+      "nama": "PT Selaras Citra Nusantara Perkasa Tbk",
+      "tanggal": "07 Sep 2020"
+    },
+    {
+      "kode": "SCPI",
+      "nama": "PT Organon Pharma Indonesia Tbk",
+      "tanggal": "08 Jun 1990"
+    },
+    {
+      "kode": "SDMU",
+      "nama": "Sidomulyo Selaras Tbk",
+      "tanggal": "12 Jul 2011"
+    },
+    {
+      "kode": "SDPC",
+      "nama": "Millennium Pharmacon International Tbk",
+      "tanggal": "07 Mei 1990"
+    },
+    {
+      "kode": "SDRA",
+      "nama": "PT Bank Woori Saudara Indonesia 1906 Tbk",
+      "tanggal": "15 Des 2006"
+    },
+    {
+      "kode": "SEMA",
+      "nama": "PT Semacom Integrated Tbk",
+      "tanggal": "10 Jan 2022"
+    },
+    {
+      "kode": "SFAN",
+      "nama": "PT Surya Fajar Capital Tbk",
+      "tanggal": "19 Jun 2019"
+    },
+    {
+      "kode": "SGER",
+      "nama": "PT Sumber Global Energy Tbk.",
+      "tanggal": "10 Agt 2020"
+    },
+    {
+      "kode": "SGRO",
+      "nama": "PT Sampoerna Agro Tbk",
+      "tanggal": "18 Jun 2007"
+    },
+    {
+      "kode": "SHID",
+      "nama": "Hotel Sahid Jaya Tbk",
+      "tanggal": "08 Mei 1990"
+    },
+    {
+      "kode": "SHIP",
+      "nama": "PT Sillo Maritime Perdana Tbk",
+      "tanggal": "16 Jun 2016"
+    },
+    {
+      "kode": "SICO",
+      "nama": "PT Sigma Energy Compressindo Tbk",
+      "tanggal": "08 Apr 2022"
+    },
+    {
+      "kode": "SIDO",
+      "nama": "PT Industri Jamu Dan Farmasi Sido Muncul Tbk",
+      "tanggal": "18 Des 2013"
+    },
+    {
+      "kode": "SILO",
+      "nama": "PT Siloam International Hospitals Tbk.",
+      "tanggal": "12 Sep 2013"
+    },
+    {
+      "kode": "SIMA",
+      "nama": "Siwani Makmur Tbk",
+      "tanggal": "03 Jun 1994"
+    },
+    {
+      "kode": "SIMP",
+      "nama": "Salim Ivomas Pratama Tbk",
+      "tanggal": "09 Jun 2011"
+    },
+    {
+      "kode": "SINI",
+      "nama": "PT Singaraja Putra Tbk.",
+      "tanggal": "08 Nov 2019"
+    },
+    {
+      "kode": "SIPD",
+      "nama": "PT Sreeya Sewu Indonesia Tbk",
+      "tanggal": "27 Des 1996"
+    },
+    {
+      "kode": "SKBM",
+      "nama": "Sekar Bumi Tbk",
+      "tanggal": "28 Sep 2012"
+    },
+    {
+      "kode": "SKLT",
+      "nama": "Sekar Laut Tbk",
+      "tanggal": "08 Sep 1993"
+    },
+    {
+      "kode": "SKRN",
+      "nama": "PT Superkrane Mitra Utama Tbk",
+      "tanggal": "11 Okt 2018"
+    },
+    {
+      "kode": "SKYB",
+      "nama": "PT Northcliff Citranusa Indonesia Tbk.",
+      "tanggal": "07 Jul 2010"
+    },
+    {
+      "kode": "SLIS",
+      "nama": "PT Gaya Abadi Sempurna Tbk",
+      "tanggal": "07 Okt 2019"
+    },
+    {
+      "kode": "SMAR",
+      "nama": "PT Sinar Mas Agro Resources and Technology Tbk",
+      "tanggal": "20 Nov 1992"
+    },
+    {
+      "kode": "SMBR",
+      "nama": "PT Semen Baturaja Tbk",
+      "tanggal": "28 Jun 2013"
+    },
+    {
+      "kode": "SMCB",
+      "nama": "PT Solusi Bangun Indonesia Tbk",
+      "tanggal": "10 Agt 1977"
+    },
+    {
+      "kode": "SMDM",
+      "nama": "Suryamas Dutamakmur Tbk",
+      "tanggal": "12 Okt 1995"
+    },
+    {
+      "kode": "SMDR",
+      "nama": "Samudera Indonesia Tbk",
+      "tanggal": "05 Jul 1999"
+    },
+    {
+      "kode": "SMGA",
+      "nama": "PT Sumber Mineral Global Abadi Tbk",
+      "tanggal": "30 Jan 2024"
+    },
+    {
+      "kode": "SMGR",
+      "nama": "Semen Indonesia (Persero) Tbk",
+      "tanggal": "08 Jul 1991"
+    },
+    {
+      "kode": "SMIL",
+      "nama": "PT Sarana Mitra Luas Tbk",
+      "tanggal": "12 Mei 2023"
+    },
+    {
+      "kode": "SMKL",
+      "nama": "PT Satyamitra Kemas Lestari Tbk",
+      "tanggal": "11 Jul 2019"
+    },
+    {
+      "kode": "SMKM",
+      "nama": "PT Sumber Mas Konstruksi Tbk",
+      "tanggal": "09 Mar 2022"
+    },
+    {
+      "kode": "SMLE",
+      "nama": "PT Sinergi Multi Lestarindo Tbk",
+      "tanggal": "10 Jan 2024"
+    },
+    {
+      "kode": "SMMA",
+      "nama": "PT Sinar Mas Multiartha Tbk",
+      "tanggal": "05 Jul 1995"
+    },
+    {
+      "kode": "SMMT",
+      "nama": "GOLDEN EAGLE ENERGY Tbk",
+      "tanggal": "01 Des 1997"
+    },
+    {
+      "kode": "SMRA",
+      "nama": "PT Summarecon Agung Tbk",
+      "tanggal": "07 Mei 1990"
+    },
+    {
+      "kode": "SMRU",
+      "nama": "SMR Utama Tbk",
+      "tanggal": "10 Okt 2011"
+    },
+    {
+      "kode": "SMSM",
+      "nama": "Selamat Sempurna Tbk",
+      "tanggal": "09 Sep 1996"
+    },
+    {
+      "kode": "SNLK",
+      "nama": "PT Sunter Lakeside Hotel Tbk.",
+      "tanggal": "29 Mar 2021"
+    },
+    {
+      "kode": "SOCI",
+      "nama": "PT Soechi Lines Tbk.",
+      "tanggal": "03 Des 2014"
+    },
+    {
+      "kode": "SOFA",
+      "nama": "PT Solusi Environment Asia Tbk",
+      "tanggal": "07 Jul 2020"
+    },
+    {
+      "kode": "SOHO",
+      "nama": "PT Soho Global Health Tbk",
+      "tanggal": "08 Sep 2020"
+    },
+    {
+      "kode": "SOLA",
+      "nama": "PT Xolare RCR Energy Tbk",
+      "tanggal": "08 Mei 2024"
+    },
+    {
+      "kode": "SONA",
+      "nama": "Sona Topas Tourism Industry Tbk",
+      "tanggal": "21 Jul 1992"
+    },
+    {
+      "kode": "SOSS",
+      "nama": "PT Shield On Service Tbk.",
+      "tanggal": "06 Nov 2018"
+    },
+    {
+      "kode": "SOTS",
+      "nama": "PT Satria Mega Kencana Tbk.",
+      "tanggal": "10 Des 2018"
+    },
+    {
+      "kode": "SOUL",
+      "nama": "PT Mitra Tirta Buwana Tbk",
+      "tanggal": "06 Jan 2023"
+    },
+    {
+      "kode": "SPMA",
+      "nama": "Suparma Tbk",
+      "tanggal": "16 Nov 1994"
+    },
+    {
+      "kode": "SPRE",
+      "nama": "PT Soraya Berjaya Indonesia Tbk",
+      "tanggal": "03 Jul 2024"
+    },
+    {
+      "kode": "SPTO",
+      "nama": "PT Surya Pertiwi Tbk",
+      "tanggal": "14 Mei 2018"
+    },
+    {
+      "kode": "SQMI",
+      "nama": "Wilton Makmur Indonesia Tbk",
+      "tanggal": "15 Jul 2004"
+    },
+    {
+      "kode": "SRAJ",
+      "nama": "Sejahteraraya Anugrahjaya Tbk",
+      "tanggal": "11 Apr 2011"
+    },
+    {
+      "kode": "SRIL",
+      "nama": "PT Sri Rejeki Isman Tbk",
+      "tanggal": "17 Jun 2013"
+    },
+    {
+      "kode": "SRSN",
+      "nama": "Indo Acidatama Tbk",
+      "tanggal": "11 Jan 1993"
+    },
+    {
+      "kode": "SRTG",
+      "nama": "PT Saratoga Investama Sedaya Tbk.",
+      "tanggal": "26 Jun 2013"
+    },
+    {
+      "kode": "SSIA",
+      "nama": "PT Surya Semesta Internusa Tbk",
+      "tanggal": "27 Mar 1997"
+    },
+    {
+      "kode": "SSMS",
+      "nama": "PT Sawit Sumbermas Sarana Tbk.",
+      "tanggal": "12 Des 2013"
+    },
+    {
+      "kode": "SSTM",
+      "nama": "Sunson Textile Manufacturer Tbk",
+      "tanggal": "20 Agt 1997"
+    },
+    {
+      "kode": "STAA",
+      "nama": "PT Sumber Tani Agung Resources Tbk",
+      "tanggal": "10 Mar 2022"
+    },
+    {
+      "kode": "STAR",
+      "nama": "PT Buana Artha Anugerah Tbk.",
+      "tanggal": "13 Jul 2011"
+    },
+    {
+      "kode": "STRK",
+      "nama": "PT Lovina Beach Brewery Tbk.",
+      "tanggal": "10 Okt 2023"
+    },
+    {
+      "kode": "STTP",
+      "nama": "PT Siantar Top Tbk",
+      "tanggal": "16 Des 1996"
+    },
+    {
+      "kode": "SUGI",
+      "nama": "Sugih Energy Tbk",
+      "tanggal": "19 Jun 2002"
+    },
+    {
+      "kode": "SULI",
+      "nama": "PT SLJ Global Tbk",
+      "tanggal": "21 Mar 1994"
+    },
+    {
+      "kode": "SUNI",
+      "nama": "PT Sunindo Pratama Tbk",
+      "tanggal": "09 Jan 2023"
+    },
+    {
+      "kode": "SUPA",
+      "nama": "PT Super Bank Indonesia Tbk",
+      "tanggal": "17 Des 2025"
+    },
+    {
+      "kode": "SUPR",
+      "nama": "Solusi Tunas Pratama Tbk",
+      "tanggal": "11 Okt 2011"
+    },
+    {
+      "kode": "SURE",
+      "nama": "PT Super Energy Tbk.",
+      "tanggal": "05 Okt 2018"
+    },
+    {
+      "kode": "SURI",
+      "nama": "PT Maja Agung Latexindo Tbk.",
+      "tanggal": "07 Des 2023"
+    },
+    {
+      "kode": "SWAT",
+      "nama": "PT Sriwahana Adityakarta Tbk.",
+      "tanggal": "08 Jun 2018"
+    },
+    {
+      "kode": "SWID",
+      "nama": "PT Saraswanti Indoland Development Tbk",
+      "tanggal": "07 Jul 2022"
+    },
+    {
+      "kode": "TALF",
+      "nama": "PT Tunas Alfin Tbk",
+      "tanggal": "17 Jan 2014"
+    },
+    {
+      "kode": "TAMA",
+      "nama": "PT Lancartama Sejati Tbk.",
+      "tanggal": "10 Feb 2020"
+    },
+    {
+      "kode": "TAMU",
+      "nama": "PT Pelayaran Tamarin Samudra Tbk.",
+      "tanggal": "10 Mei 2017"
+    },
+    {
+      "kode": "TAPG",
+      "nama": "PT Triputra Agro Persada Tbk.",
+      "tanggal": "12 Apr 2021"
+    },
+    {
+      "kode": "TARA",
+      "nama": "PT Agung Semesta Sejahtera Tbk",
+      "tanggal": "11 Jul 2014"
+    },
+    {
+      "kode": "TAXI",
+      "nama": "Express Transindo Utama Tbk",
+      "tanggal": "02 Nov 2012"
+    },
+    {
+      "kode": "TAYS",
+      "nama": "PT Jaya Swarasa Agung Tbk",
+      "tanggal": "06 Des 2021"
+    },
+    {
+      "kode": "TBIG",
+      "nama": "PT Tower Bersama Infrastructure Tbk",
+      "tanggal": "26 Okt 2010"
+    },
+    {
+      "kode": "TBLA",
+      "nama": "Tunas Baru Lampung Tbk",
+      "tanggal": "14 Feb 2000"
+    },
+    {
+      "kode": "TBMS",
+      "nama": "Tembaga Mulia Semanan Tbk",
+      "tanggal": "23 Mei 1990"
+    },
+    {
+      "kode": "TCID",
+      "nama": "Mandom Indonesia Tbk",
+      "tanggal": "30 Sep 1993"
+    },
+    {
+      "kode": "TCPI",
+      "nama": "PT Transcoal Pacific Tbk.",
+      "tanggal": "06 Jul 2018"
+    },
+    {
+      "kode": "TDPM",
+      "nama": "PT Tianrong Chemicals Industry Tbk",
+      "tanggal": "09 Apr 2018"
+    },
+    {
+      "kode": "TEBE",
+      "nama": "PT Dana Brata Luhur Tbk.",
+      "tanggal": "18 Nov 2019"
+    },
+    {
+      "kode": "TECH",
+      "nama": "PT Indosterling Technomedia Tbk",
+      "tanggal": "04 Jun 2020"
+    },
+    {
+      "kode": "TELE",
+      "nama": "PT Omni Inovasi Indonesia Tbk",
+      "tanggal": "12 Jan 2012"
+    },
+    {
+      "kode": "TFAS",
+      "nama": "PT Telefast Indonesia Tbk.",
+      "tanggal": "17 Sep 2019"
+    },
+    {
+      "kode": "TFCO",
+      "nama": "Tifico Fiber Indonesia Tbk",
+      "tanggal": "26 Feb 1980"
+    },
+    {
+      "kode": "TGKA",
+      "nama": "Tigaraksa Satria Tbk",
+      "tanggal": "11 Jun 1990"
+    },
+    {
+      "kode": "TGRA",
+      "nama": "PT Terregra Asia Energy",
+      "tanggal": "16 Mei 2017"
+    },
+    {
+      "kode": "TGUK",
+      "nama": "PT Platinum Wahab Nusantara Tbk.",
+      "tanggal": "10 Jul 2023"
+    },
+    {
+      "kode": "TIFA",
+      "nama": "KDB Tifa Finance Tbk",
+      "tanggal": "08 Jul 2011"
+    },
+    {
+      "kode": "TINS",
+      "nama": "PT Timah Tbk.",
+      "tanggal": "19 Okt 1995"
+    },
+    {
+      "kode": "TIRA",
+      "nama": "Tira Austenite Tbk",
+      "tanggal": "27 Jul 1993"
+    },
+    {
+      "kode": "TIRT",
+      "nama": "Tirta Mahakam Resources Tbk",
+      "tanggal": "13 Des 1999"
+    },
+    {
+      "kode": "TKIM",
+      "nama": "Pabrik Kertas Tjiwi Kimia Tbk",
+      "tanggal": "03 Apr 1990"
+    },
+    {
+      "kode": "TLDN",
+      "nama": "PT Teladan Prima Agro Tbk",
+      "tanggal": "12 Apr 2022"
+    },
+    {
+      "kode": "TLKM",
+      "nama": "PT Telkom Indonesia (Persero) Tbk",
+      "tanggal": "14 Nov 1995"
+    },
+    {
+      "kode": "TMAS",
+      "nama": "PT Temas Tbk.",
+      "tanggal": "09 Jul 2003"
+    },
+    {
+      "kode": "TMPO",
+      "nama": "Tempo Inti Media Tbk",
+      "tanggal": "08 Jan 2001"
+    },
+    {
+      "kode": "TNCA",
+      "nama": "PT Trimuda Nuansa Citra Tbk.",
+      "tanggal": "28 Jun 2018"
+    },
+    {
+      "kode": "TOBA",
+      "nama": "PT TBS Energi Utama Tbk",
+      "tanggal": "06 Jul 2012"
+    },
+    {
+      "kode": "TOOL",
+      "nama": "PT Rohartindo Nusantara Luas Tbk",
+      "tanggal": "09 Agt 2022"
+    },
+    {
+      "kode": "TOPS",
+      "nama": "PT Totalindo Eka Persada Tbk.",
+      "tanggal": "16 Jun 2017"
+    },
+    {
+      "kode": "TOSK",
+      "nama": "PT Topindo Solusi Komunika Tbk.",
+      "tanggal": "07 Feb 2024"
+    },
+    {
+      "kode": "TOTL",
+      "nama": "Total Bangun Persada Tbk",
+      "tanggal": "25 Jul 2006"
+    },
+    {
+      "kode": "TOTO",
+      "nama": "Surya Toto Indonesia Tbk",
+      "tanggal": "30 Okt 1990"
+    },
+    {
+      "kode": "TOWR",
+      "nama": "Sarana Menara Nusantara Tbk",
+      "tanggal": "08 Mar 2010"
+    },
+    {
+      "kode": "TOYS",
+      "nama": "PT Sunindo Adipersada Tbk.",
+      "tanggal": "06 Agt 2020"
+    },
+    {
+      "kode": "TPIA",
+      "nama": "PT Chandra Asri Pacific Tbk",
+      "tanggal": "26 Mei 2008"
+    },
+    {
+      "kode": "TPMA",
+      "nama": "Trans Power Marine Tbk",
+      "tanggal": "20 Feb 2013"
+    },
+    {
+      "kode": "TRAM",
+      "nama": "Trada Alam Minera Tbk.",
+      "tanggal": "10 Sep 2008"
+    },
+    {
+      "kode": "TRGU",
+      "nama": "PT Cerestar Indonesia Tbk",
+      "tanggal": "08 Jul 2022"
+    },
+    {
+      "kode": "TRIL",
+      "nama": "Triwira Insanlestari Tbk",
+      "tanggal": "28 Jan 2008"
+    },
+    {
+      "kode": "TRIM",
+      "nama": "PT Trimegah Sekuritas Indonesia Tbk",
+      "tanggal": "31 Jan 2000"
+    },
+    {
+      "kode": "TRIN",
+      "nama": "PT Perintis Triniti Properti Tbk",
+      "tanggal": "15 Jan 2020"
+    },
+    {
+      "kode": "TRIO",
+      "nama": "Trikomsel Oke Tbk",
+      "tanggal": "14 Apr 2009"
+    },
+    {
+      "kode": "TRIS",
+      "nama": "Trisula International Tbk",
+      "tanggal": "28 Jun 2012"
+    },
+    {
+      "kode": "TRJA",
+      "nama": "PT Transkon Jaya Tbk.",
+      "tanggal": "27 Agt 2020"
+    },
+    {
+      "kode": "TRON",
+      "nama": "PT Teknologi Karya Digital Nusa Tbk.",
+      "tanggal": "08 Mar 2023"
+    },
+    {
+      "kode": "TRST",
+      "nama": "Trias Sentosa Tbk",
+      "tanggal": "02 Jul 1990"
+    },
+    {
+      "kode": "TRUE",
+      "nama": "PT Triniti Dinamik Tbk",
+      "tanggal": "10 Jun 2021"
+    },
+    {
+      "kode": "TRUK",
+      "nama": "PT Guna Timur Raya Tbk.",
+      "tanggal": "23 Mei 2018"
+    },
+    {
+      "kode": "TRUS",
+      "nama": "Trust Finance Indonesia Tbk",
+      "tanggal": "28 Nov 2002"
+    },
+    {
+      "kode": "TSPC",
+      "nama": "Tempo Scan Pacific Tbk",
+      "tanggal": "17 Jun 1994"
+    },
+    {
+      "kode": "TUGU",
+      "nama": "PT Asuransi Tugu Pratama Indonesia Tbk",
+      "tanggal": "28 Mei 2018"
+    },
+    {
+      "kode": "TYRE",
+      "nama": "PT King Tire Indonesia Tbk.",
+      "tanggal": "08 Mei 2023"
+    },
+    {
+      "kode": "UANG",
+      "nama": "PT Pakuan Tbk",
+      "tanggal": "06 Jul 2020"
+    },
+    {
+      "kode": "UCID",
+      "nama": "PT Uni-Charm Indonesia Tbk.",
+      "tanggal": "20 Des 2019"
+    },
+    {
+      "kode": "UDNG",
+      "nama": "PT Agro Bahari Nusantara Tbk",
+      "tanggal": "31 Okt 2023"
+    },
+    {
+      "kode": "UFOE",
+      "nama": "PT Damai Sejahtera Abadi Tbk",
+      "tanggal": "01 Feb 2021"
+    },
+    {
+      "kode": "ULTJ",
+      "nama": "PT Ultrajaya Milk Industry & Trading Company Tbk",
+      "tanggal": "02 Jul 1990"
+    },
+    {
+      "kode": "UNIC",
+      "nama": "Unggul Indah Cahaya Tbk",
+      "tanggal": "06 Nov 1989"
+    },
+    {
+      "kode": "UNIQ",
+      "nama": "PT Ulima Nitra Tbk",
+      "tanggal": "08 Mar 2021"
+    },
+    {
+      "kode": "UNIT",
+      "nama": "Nusantara Inti Corpora Tbk",
+      "tanggal": "18 Apr 2002"
+    },
+    {
+      "kode": "UNSP",
+      "nama": "Bakrie Sumatera Plantations Tbk",
+      "tanggal": "06 Mar 1990"
+    },
+    {
+      "kode": "UNTD",
+      "nama": "PT Terang Dunia Internusa Tbk.",
+      "tanggal": "07 Feb 2024"
+    },
+    {
+      "kode": "UNTR",
+      "nama": "United Tractors Tbk",
+      "tanggal": "19 Sep 1989"
+    },
+    {
+      "kode": "UNVR",
+      "nama": "Unilever Indonesia Tbk",
+      "tanggal": "11 Jan 1982"
+    },
+    {
+      "kode": "URBN",
+      "nama": "PT Urban Jakarta Propertindo Tbk.",
+      "tanggal": "10 Des 2018"
+    },
+    {
+      "kode": "UVCR",
+      "nama": "PT Trimegah Karya Pratama Tbk.",
+      "tanggal": "27 Jul 2021"
+    },
+    {
+      "kode": "VAST",
+      "nama": "PT Vastland Indonesia Tbk",
+      "tanggal": "08 Feb 2023"
+    },
+    {
+      "kode": "VERN",
+      "nama": "PT Verona Indah Pictures Tbk",
+      "tanggal": "08 Okt 2024"
+    },
+    {
+      "kode": "VICI",
+      "nama": "PT Victoria Care Indonesia Tbk",
+      "tanggal": "17 Des 2020"
+    },
+    {
+      "kode": "VICO",
+      "nama": "PT Victoria Investama Tbk.",
+      "tanggal": "08 Jul 2013"
+    },
+    {
+      "kode": "VINS",
+      "nama": "PT Victoria Insurance Tbk.",
+      "tanggal": "28 Sep 2015"
+    },
+    {
+      "kode": "VISI",
+      "nama": "PT Satu Visi Putra Tbk.",
+      "tanggal": "27 Feb 2024"
+    },
+    {
+      "kode": "VIVA",
+      "nama": "PT Visi Media Asia Tbk",
+      "tanggal": "21 Nov 2011"
+    },
+    {
+      "kode": "VKTR",
+      "nama": "PT VKTR Teknologi Mobilitas Tbk",
+      "tanggal": "19 Jun 2023"
+    },
+    {
+      "kode": "VOKS",
+      "nama": "Voksel Electric Tbk",
+      "tanggal": "20 Des 1990"
+    },
+    {
+      "kode": "VRNA",
+      "nama": "PT Mizuho Leasing Indonesia Tbk",
+      "tanggal": "25 Jun 2008"
+    },
+    {
+      "kode": "VTNY",
+      "nama": "PT Venteny Fortuna International Tbk",
+      "tanggal": "15 Des 2022"
+    },
+    {
+      "kode": "WAPO",
+      "nama": "Wahana Pronatural Tbk",
+      "tanggal": "22 Jun 2001"
+    },
+    {
+      "kode": "WEGE",
+      "nama": "PT Wijaya Karya Bangunan Gedung Tbk.",
+      "tanggal": "30 Nov 2017"
+    },
+    {
+      "kode": "WEHA",
+      "nama": "PT WEHA Transportasi Indonesia Tbk",
+      "tanggal": "31 Mei 2007"
+    },
+    {
+      "kode": "WGSH",
+      "nama": "PT Wira Global Solusi Tbk",
+      "tanggal": "06 Des 2021"
+    },
+    {
+      "kode": "WICO",
+      "nama": "Wicaksana Overseas International Tbk",
+      "tanggal": "08 Agt 1994"
+    },
+    {
+      "kode": "WIDI",
+      "nama": "PT Widiant Jaya Krenindo Tbk.",
+      "tanggal": "10 Jul 2023"
+    },
+    {
+      "kode": "WIFI",
+      "nama": "PT Solusi Sinergi Digital Tbk",
+      "tanggal": "30 Des 2020"
+    },
+    {
+      "kode": "WIIM",
+      "nama": "Wismilak Inti Makmur Tbk",
+      "tanggal": "18 Des 2012"
+    },
+    {
+      "kode": "WIKA",
+      "nama": "PT Wijaya Karya (Persero) Tbk",
+      "tanggal": "29 Okt 2007"
+    },
+    {
+      "kode": "WINE",
+      "nama": "PT Hatten Bali Tbk",
+      "tanggal": "10 Jan 2023"
+    },
+    {
+      "kode": "WINR",
+      "nama": "PT Winner Nusantara Jaya Tbk",
+      "tanggal": "25 Apr 2022"
+    },
+    {
+      "kode": "WINS",
+      "nama": "Wintermar Offshore Marine Tbk",
+      "tanggal": "29 Nov 2010"
+    },
+    {
+      "kode": "WIRG",
+      "nama": "PT WIR ASIA Tbk",
+      "tanggal": "04 Apr 2022"
+    },
+    {
+      "kode": "WMPP",
+      "nama": "PT Widodo Makmur Perkasa Tbk",
+      "tanggal": "06 Des 2021"
+    },
+    {
+      "kode": "WMUU",
+      "nama": "PT Widodo Makmur Unggas Tbk",
+      "tanggal": "02 Feb 2021"
+    },
+    {
+      "kode": "WOMF",
+      "nama": "PT Wahana Ottomitra Multiartha Tbk",
+      "tanggal": "13 Des 2004"
+    },
+    {
+      "kode": "WOOD",
+      "nama": "PT Integra Indocabinet Tbk",
+      "tanggal": "21 Jun 2017"
+    },
+    {
+      "kode": "WOWS",
+      "nama": "PT Ginting Jaya Energi Tbk",
+      "tanggal": "08 Nov 2019"
+    },
+    {
+      "kode": "WSBP",
+      "nama": "PT Waskita Beton Precast Tbk.",
+      "tanggal": "20 Sep 2016"
+    },
+    {
+      "kode": "WSKT",
+      "nama": "PT Waskita Karya (Persero) Tbk",
+      "tanggal": "19 Des 2012"
+    },
+    {
+      "kode": "WTON",
+      "nama": "Wijaya Karya Beton",
+      "tanggal": "08 Apr 2014"
+    },
+    {
+      "kode": "YELO",
+      "nama": "PT Yelooo Integra Datanet Tbk.",
+      "tanggal": "29 Okt 2018"
+    },
+    {
+      "kode": "YOII",
+      "nama": "PT Asuransi Digital Bersama Tbk",
+      "tanggal": "08 Jan 2025"
+    },
+    {
+      "kode": "YPAS",
+      "nama": "Yanaprima Hastapersada Tbk",
+      "tanggal": "05 Mar 2008"
+    },
+    {
+      "kode": "YULE",
+      "nama": "Yulie Sekuritas Indonesia Tbk",
+      "tanggal": "10 Des 2004"
+    },
+    {
+      "kode": "YUPI",
+      "nama": "PT Yupi Indo Jelly Gum Tbk",
+      "tanggal": "25 Mar 2025"
+    },
+    {
+      "kode": "ZATA",
+      "nama": "PT Bersama Zatta Jaya Tbk",
+      "tanggal": "10 Nov 2022"
+    },
+    {
+      "kode": "ZBRA",
+      "nama": "PT Dosni Roha Indonesia Tbk",
+      "tanggal": "01 Agt 1991"
+    },
+    {
+      "kode": "ZINC",
+      "nama": "PT Kapuas Prima Coal Tbk",
+      "tanggal": "16 Okt 2017"
+    },
+    {
+      "kode": "ZONE",
+      "nama": "PT Mega Perintis Tbk.",
+      "tanggal": "12 Des 2018"
+    },
+    {
+      "kode": "ZYRX",
+      "nama": "PT Zyrexindo Mandiri Buana Tbk",
+      "tanggal": "30 Mar 2021"
+    }
+  ],
+  "scraped_at": "2026-01-14T06:45:35.714Z"
+}

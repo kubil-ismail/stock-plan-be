@@ -1,0 +1,1 @@
+npx sequelize-cli model:generate --name m_trading_plan --attributes ticker:string,setup:string
