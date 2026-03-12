@@ -17,8 +17,11 @@ exports.decodeToken = (authorization) => {
 };
 
 exports.paginationOption = (params) => {
-  const page = parseInt(params?.query?.page) || null;
-  const limit = parseInt(params?.query?.limit) || null;
+  const page = parseInt(params?.query?.page) || 1;
+  const limit =
+    (parseInt(params?.query?.limit) || 10) > 50
+      ? 50
+      : parseInt(params?.query?.limit) || 10;
   const offset = (page - 1) * limit;
 
   return { page, limit, offset };

@@ -13,6 +13,11 @@ module.exports = (sequelize, DataTypes) => {
         foreignKey: "sector_id",
         as: "sub_sectors",
       });
+
+      m_sector.hasMany(models.m_companies, {
+        foreignKey: "sector_id",
+        as: "companies",
+      });
     }
   }
   m_sector.init(

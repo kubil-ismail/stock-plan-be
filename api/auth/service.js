@@ -1,11 +1,36 @@
 const model = require("../../models");
-const { fn, col, where } = require("sequelize");
+const { fn, col, where, Op } = require("sequelize");
 
 exports.findOneUserByEmail = (email) => {
   return new Promise(async (resolve, reject) => {
     try {
       const find = await model.m_user.findOne({
         where: where(fn("lower", col("email")), email.toLowerCase()),
+      });
+
+      resolve(find);
+    } catch (error) {
+      reject(
+        { ...error?.errors?.[0], code: 400 } ?? {
+          code: 500,
+          message: "Something Wrong in our app",
+        }
+      );
+    }
+  });
+};
+
+exports.findAllUserByEmailorUsername = (email, username) => {
+  return new Promise(async (resolve, reject) => {
+    try {
+      const find = await model.m_user.findAll({
+        where: {
+          [Op.or]: [
+            where(fn("lower", col("email")), email.toLowerCase()),
+            where(fn("lower", col("username")), username.toLowerCase()),
+          ],
+        },
+        attributes: ["email", "username"],
       });
 
       resolve(find);
@@ -47,12 +72,13 @@ exports.findOneUserById = (id) => {
 exports.createNewUser = async (props) => {
   return new Promise(async (resolve, reject) => {
     try {
-      const { fullname, email, password } = props;
+      const { fullname, email, password, username } = props;
 
       const create = await model.m_user.create({
         fullname,
         email,
         password,
+        username,
       });
 
       resolve(create);

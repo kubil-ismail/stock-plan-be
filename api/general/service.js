@@ -1,29 +1,42 @@
 const model = require("../../models");
 
-exports.findSector = (params) => {
-  return new Promise(async (resolve, reject) => {
-    try {
-      const { limit, offset } = params;
+exports.findSector = async (params) => {
+  try {
+    const { limit, offset } = params;
 
-      const find = await model.m_sector.findAndCountAll({
-        limit,
-        offset,
-        order: [["id", "ASC"]],
-        attributes: {
-          exclude: ["createdAt", "updatedAt", "deletedAt"],
+    const find = await model.m_sector.findAndCountAll({
+      limit,
+      offset,
+      order: [["id", "ASC"]],
+      attributes: [
+        "id",
+        "name",
+        [
+          model.sequelize.fn("COUNT", model.sequelize.col("companies.id")),
+          "total_companies",
+        ],
+      ],
+      include: [
+        {
+          model: model.m_companies,
+          as: "companies",
+          attributes: [],
+          required: false,
         },
-      });
+      ],
+      group: ["m_sector.id"],
+      subQuery: false,
+    });
 
-      resolve(find);
-    } catch (error) {
-      reject(
-        { ...error?.errors?.[0], code: 400 } ?? {
-          code: 500,
-          message: "Something Wrong in our app",
-        }
-      );
-    }
-  });
+    return find;
+  } catch (error) {
+    throw (
+      { ...error?.errors?.[0], code: 400 } ?? {
+        code: 500,
+        message: "Something Wrong in our app",
+      }
+    );
+  }
 };
 
 exports.findSubSector = (params) => {

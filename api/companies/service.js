@@ -23,6 +23,18 @@ exports.findCompanies = (params) => {
             "deletedAt",
           ],
         },
+        include: [
+          {
+            model: model.m_sector,
+            as: "sector",
+            attributes: ["id", "name"],
+          },
+          {
+            model: model.m_sub_sector,
+            as: "subsector",
+            attributes: ["id", "name"],
+          },
+        ],
       });
 
       resolve(find);

@@ -46,15 +46,35 @@ exports.login = async (req, res, next) => {
 
 exports.register = async (req, res, next) => {
   try {
-    const { fullname, email, password } = req.body;
+    const { fullname, username, email, password } = req.body;
 
-    const findUser = await service.findOneUserByEmail(email);
+    const findUser = await service.findAllUserByEmailorUsername(
+      email,
+      username
+    );
 
     if (findUser) {
-      throw {
-        code: 400,
-        message: "Email already registered",
-      };
+      const checkEmail = findUser?.some(
+        (item) => item.email?.toLowerCase() === email.toLowerCase()
+      );
+
+      if (checkEmail) {
+        throw {
+          code: 400,
+          message: "Email already registered",
+        };
+      }
+
+      const checkUsername = findUser?.some(
+        (item) => item.username?.toLowerCase() === username.toLowerCase()
+      );
+
+      if (checkUsername) {
+        throw {
+          code: 400,
+          message: "Username already registered",
+        };
+      }
     }
 
     const hashPassword = bcrypt.hashSync(password, bcryptSalt);
@@ -62,6 +82,7 @@ exports.register = async (req, res, next) => {
       fullname,
       email: email.toLowerCase(),
       password: hashPassword,
+      username,
     });
 
     const {
