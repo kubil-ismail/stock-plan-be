@@ -2,30 +2,33 @@ const model = require("../../models");
 
 exports.findSector = async (params) => {
   try {
-    const { limit, offset } = params;
+    const { limit, offset, search } = params;
+
+    let filter = {};
+
+    if (search) {
+      filter = {
+        name: search,
+      };
+    }
 
     const find = await model.m_sector.findAndCountAll({
       limit,
       offset,
       order: [["id", "ASC"]],
+      where: filter,
       attributes: [
         "id",
         "name",
         [
-          model.sequelize.fn("COUNT", model.sequelize.col("companies.id")),
+          model.sequelize.literal(`(
+            SELECT COUNT(id)
+            FROM m_companies c
+            WHERE c.sector_id = m_sector.id
+          )`),
           "total_companies",
         ],
       ],
-      include: [
-        {
-          model: model.m_companies,
-          as: "companies",
-          attributes: [],
-          required: false,
-        },
-      ],
-      group: ["m_sector.id"],
-      subQuery: false,
     });
 
     return find;

@@ -4,7 +4,12 @@ const { paginationOption } = require("../../utils/helper");
 exports.getAllSector = async (req, res) => {
   try {
     const { page, limit, offset } = paginationOption(req);
-    const find = await service.findSector({ page, limit, offset });
+    const find = await service.findSector({
+      page,
+      limit,
+      offset,
+      search: req.query?.search,
+    });
 
     res.json({
       status: true,
