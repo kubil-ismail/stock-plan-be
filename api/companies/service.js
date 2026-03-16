@@ -5,11 +5,39 @@ const { isNumericPositive } = require("../../utils/helper");
 exports.findCompanies = (params) => {
   return new Promise(async (resolve, reject) => {
     try {
-      const { limit, offset } = params;
+      const { limit, offset, search, sector } = params;
+
+      let filter = {};
+      let filterSector = {}
+
+      if (search) {
+        filter = {
+          ...filter,
+          [Op.or]: [
+            {
+              name: {
+                [Op.iLike]: `%${search}%`,
+              },
+            },
+            {
+              ticker: {
+                [Op.iLike]: `%${search}%`,
+              },
+            },
+          ],
+        };
+      }
+
+      if(sector) {
+        filterSector = {
+          name: sector,
+        };
+      }
 
       const find = await model.m_companies.findAndCountAll({
         limit,
         offset,
+        where: { ...filter },
         order: [["id", "ASC"]],
         attributes: {
           exclude: [
@@ -28,6 +56,7 @@ exports.findCompanies = (params) => {
             model: model.m_sector,
             as: "sector",
             attributes: ["id", "name"],
+            where: { ...filterSector },
           },
           {
             model: model.m_sub_sector,

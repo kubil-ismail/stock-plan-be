@@ -3,8 +3,17 @@ const { paginationOption } = require("../../utils/helper");
 
 exports.getAllCompanies = async (req, res) => {
   try {
+    const search = req.query.search;
+    const sector = req.query.sector;
+
     const { page, limit, offset } = paginationOption(req);
-    const find = await service.findCompanies({ page, limit, offset });
+    const find = await service.findCompanies({
+      page,
+      limit,
+      offset,
+      search,
+      sector,
+    });
 
     res.json({
       status: true,
