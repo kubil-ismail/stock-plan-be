@@ -120,3 +120,49 @@ exports.getAllShareRegistery = async (req, res) => {
     });
   }
 };
+
+exports.getAllMarketIndex = async (req, res) => {
+  try {
+    const { page, limit, offset } = paginationOption(req);
+    const find = await service.findMarketIndex({ page, limit, offset });
+
+    res.json({
+      status: true,
+      message: "success",
+      data: find?.rows,
+      options: {
+        page,
+        limit,
+        total: find?.count,
+      },
+    });
+  } catch (err) {
+    res.status(err.code ?? 500).json({
+      status: false,
+      message: err.message,
+    });
+  }
+};
+
+exports.getDetailMarketIndex = async (req, res) => {
+  try {
+    const { page, limit, offset } = paginationOption(req);
+    const find = await service.findMarketIndexbyCode({ page, limit, offset });
+
+    res.json({
+      status: true,
+      message: "success",
+      data: find?.rows,
+      options: {
+        page,
+        limit,
+        total: find?.count,
+      },
+    });
+  } catch (err) {
+    res.status(err.code ?? 500).json({
+      status: false,
+      message: err.message,
+    });
+  }
+};

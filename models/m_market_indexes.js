@@ -1,7 +1,7 @@
 "use strict";
 const { Model } = require("sequelize");
 module.exports = (sequelize, DataTypes) => {
-  class m_sector extends Model {
+  class m_market_indexes extends Model {
     /**
      * Helper method for defining associations.
      * This method is not a part of Sequelize lifecycle.
@@ -9,20 +9,11 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
-      m_sector.hasMany(models.m_sub_sector, {
-        foreignKey: "sector_id",
-        as: "sub_sectors",
-      });
-
-      m_sector.hasMany(models.m_companies, {
-        foreignKey: "sector_id",
-        as: "companies",
-      });
     }
   }
-  m_sector.init(
+  m_market_indexes.init(
     {
-      name: {
+      ticker: {
         type: DataTypes.STRING,
         validate: {
           notEmpty: true,
@@ -31,9 +22,9 @@ module.exports = (sequelize, DataTypes) => {
     },
     {
       sequelize,
-      modelName: "m_sector",
+      modelName: "m_market_indexes",
       paranoid: true,
     }
   );
-  return m_sector;
+  return m_market_indexes;
 };

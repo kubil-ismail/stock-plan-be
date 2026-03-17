@@ -165,3 +165,82 @@ exports.findShareRegistery = (params) => {
     }
   });
 };
+
+exports.findMarketIndex = (params) => {
+  return new Promise(async (resolve, reject) => {
+    try {
+      const { limit, offset } = params;
+
+      const find = await model.m_market_indexes.findAndCountAll({
+        limit,
+        offset,
+        order: [["id", "ASC"]],
+        attributes: [
+          "id",
+          "ticker",
+          [
+            model.sequelize.literal(`(
+              SELECT COUNT(id)
+              FROM m_company_indexes mci
+              WHERE mci.indexes_id = m_market_indexes.id
+            )`),
+            "total_companies",
+          ],
+        ],
+      });
+
+      resolve(find);
+    } catch (error) {
+      reject(
+        { ...error?.errors?.[0], code: 400 } ?? {
+          code: 500,
+          message: "Something Wrong in our app",
+        }
+      );
+    }
+  });
+};
+
+exports.findMarketIndexbyCode = (params) => {
+  return new Promise(async (resolve, reject) => {
+    try {
+      const { limit, offset } = params;
+
+      const find = await model.m_company_indexes.findAndCountAll({
+        limit,
+        offset,
+        order: [["id", "ASC"]],
+        attributes: {
+          exclude: ["createdAt", "updatedAt", "deletedAt"],
+        },
+        include: [
+          {
+            model: model.m_companies,
+            as: "company",
+            attributes: {
+              exclude: ["createdAt", "updatedAt", "deletedAt"],
+            },
+            required: true,
+          },
+          // {
+          //   model: model.m_market_indexes,
+          //   as: "indexes",
+          //   attributes: {
+          //     exclude: ["createdAt", "updatedAt", "deletedAt"],
+          //   },
+          //   required: true,
+          // },
+        ],
+      });
+
+      resolve(find);
+    } catch (error) {
+      reject(
+        { ...error?.errors?.[0], code: 400 } ?? {
+          code: 500,
+          message: "Something Wrong in our app",
+        }
+      );
+    }
+  });
+};

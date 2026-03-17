@@ -22,6 +22,10 @@ module.exports = {
       fs.readFileSync(path.join(DATA_DIR, "..", "company.json"), "utf8")
     );
 
+    const indexes = JSON.parse(
+      fs.readFileSync(path.join(DATA_DIR, "..", "idx-index-daily.json"), "utf8")
+    );
+
     const emitenData = company?.data.map((file, key) => {
       const { data } = JSON.parse(
         fs.readFileSync(path.join(DATA_DIR, `${file.kode}.json`), "utf8")
@@ -490,23 +494,31 @@ module.exports = {
     // return queryInterface.bulkInsert("m_shareholders", Shareholder);
 
     /** 11 m_company_subsidiaries Subsidiaries */
-    const Subsidiaries = emitenData_2
-      ?.map((items) => ({
-        direktur: items?.Anak_Perusahaan?.filter(
-          (item) => item.name !== ""
-        )?.map((item, key) => ({
-          company_id: items?.id,
-          name: item?.nama,
-          type: item?.jenis,
-          asset: item?.["aset total"],
-          percentage: item?.persentase,
-          createdAt: new Date(),
-          updatedAt: new Date(),
-        })),
-      }))
-      .flatMap((item) => item.direktur);
+    // const Subsidiaries = emitenData_2
+    //   ?.map((items) => ({
+    //     direktur: items?.Anak_Perusahaan?.filter(
+    //       (item) => item.name !== ""
+    //     )?.map((item, key) => ({
+    //       company_id: items?.id,
+    //       name: item?.nama,
+    //       type: item?.jenis,
+    //       asset: item?.["aset total"],
+    //       percentage: item?.persentase,
+    //       createdAt: new Date(),
+    //       updatedAt: new Date(),
+    //     })),
+    //   }))
+    //   .flatMap((item) => item.direktur);
 
-    return queryInterface.bulkInsert("m_company_subsidiaries", Subsidiaries);
+    // return queryInterface.bulkInsert("m_company_subsidiaries", Subsidiaries);
+
+    const M_indexes = indexes?.data?.map((items) => ({
+      ticker: items.index_code,
+      createdAt: new Date(),
+      updatedAt: new Date(),
+    }));
+
+    return queryInterface.bulkInsert("m_market_indexes", M_indexes);
   },
 
   async down(queryInterface, Sequelize) {
