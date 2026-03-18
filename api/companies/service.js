@@ -8,7 +8,7 @@ exports.findCompanies = (params) => {
       const { limit, offset, search, sector } = params;
 
       let filter = {};
-      let filterSector = {}
+      let filterSector = {};
 
       if (search) {
         filter = {
@@ -28,7 +28,7 @@ exports.findCompanies = (params) => {
         };
       }
 
-      if(sector) {
+      if (sector) {
         filterSector = {
           name: sector,
         };
@@ -56,11 +56,20 @@ exports.findCompanies = (params) => {
             model: model.m_sector,
             as: "sector",
             attributes: ["id", "name"],
-            where: { ...filterSector },
           },
           {
             model: model.m_sub_sector,
             as: "subsector",
+            attributes: ["id", "name"],
+          },
+          {
+            model: model.m_industries,
+            as: "industry",
+            attributes: ["id", "name"],
+          },
+          {
+            model: model.m_sub_industries,
+            as: "subindustry",
             attributes: ["id", "name"],
           },
         ],
@@ -68,6 +77,7 @@ exports.findCompanies = (params) => {
 
       resolve(find);
     } catch (error) {
+      console.log(error);
       reject(
         { ...error?.errors?.[0], code: 400 } ?? {
           code: 500,

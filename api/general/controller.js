@@ -146,8 +146,17 @@ exports.getAllMarketIndex = async (req, res) => {
 
 exports.getDetailMarketIndex = async (req, res) => {
   try {
+    const id = req.params.id;
+    const search = req.query.search;
+
     const { page, limit, offset } = paginationOption(req);
-    const find = await service.findMarketIndexbyCode({ page, limit, offset });
+    const find = await service.findMarketIndexbyCode({
+      page,
+      limit,
+      offset,
+      id,
+      search,
+    });
 
     res.json({
       status: true,
