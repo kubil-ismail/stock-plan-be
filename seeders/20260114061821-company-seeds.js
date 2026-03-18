@@ -26,6 +26,10 @@ module.exports = {
       fs.readFileSync(path.join(DATA_DIR, "..", "idx-index-daily.json"), "utf8")
     );
 
+    const brokers = JSON.parse(
+      fs.readFileSync(path.join(DATA_DIR, "..", "broker.json"), "utf8")
+    );
+
     const emitenData = company?.data.map((file, key) => {
       const { data } = JSON.parse(
         fs.readFileSync(path.join(DATA_DIR, `${file.kode}.json`), "utf8")
@@ -512,13 +516,29 @@ module.exports = {
 
     // return queryInterface.bulkInsert("m_company_subsidiaries", Subsidiaries);
 
-    const M_indexes = indexes?.data?.map((items) => ({
-      ticker: items.index_code,
+    // const M_indexes = indexes?.data?.map((items) => ({
+    //   ticker: items.index_code,
+    //   createdAt: new Date(),
+    //   updatedAt: new Date(),
+    // }));
+
+    // return queryInterface.bulkInsert("m_market_indexes", M_indexes);
+
+    const M_brokers = brokers?.map((items) => ({
+      ticker: items.code,
+      name: items.name,
+      type: Sequelize.literal(
+        `ARRAY[${items.type
+          .map((t) => `'${t}'`)
+          .join(",")}]::enum_m_brokers_type[]`
+      ),
       createdAt: new Date(),
       updatedAt: new Date(),
     }));
 
-    return queryInterface.bulkInsert("m_market_indexes", M_indexes);
+    console.log(M_brokers);
+
+    return queryInterface.bulkInsert("m_brokers", M_brokers);
   },
 
   async down(queryInterface, Sequelize) {

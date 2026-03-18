@@ -1,0 +1,186 @@
+[
+  {
+    "no": 1,
+    "code": "XC",
+    "name": "AJAIB SEKURITAS ASIA",
+    "type": ["Penjamin Emisi Efek", "Perantara Pedagang Efek"]
+  },
+  {
+    "no": 2,
+    "code": "PP",
+    "name": "ALDIRACITA SEKURITAS INDONESIA",
+    "type": ["Penjamin Emisi Efek", "Perantara Pedagang Efek"]
+  },
+  {
+    "no": 3,
+    "code": "YO",
+    "name": "AMANTARA SEKURITAS INDONESIA",
+    "type": ["Penjamin Emisi Efek", "Perantara Pedagang Efek"]
+  },
+  {
+    "no": 4,
+    "code": "ID",
+    "name": "ANUGERAH SEKURITAS INDONESIA",
+    "type": ["Perantara Pedagang Efek"]
+  },
+  {
+    "no": 5,
+    "code": "SH",
+    "name": "ARTHA SEKURITAS INDONESIA",
+    "type": ["Penjamin Emisi Efek", "Perantara Pedagang Efek"]
+  },
+  {
+    "no": 6,
+    "code": "DX",
+    "name": "BAHANA SEKURITAS",
+    "type": ["Penjamin Emisi Efek", "Perantara Pedagang Efek"]
+  },
+  {
+    "no": 7,
+    "code": "SQ",
+    "name": "BCA SEKURITAS",
+    "type": ["Penjamin Emisi Efek", "Perantara Pedagang Efek"]
+  },
+  {
+    "no": 8,
+    "code": "AR",
+    "name": "BINAARTHA SEKURITAS",
+    "type": ["Penjamin Emisi Efek", "Perantara Pedagang Efek"]
+  },
+  {
+    "no": 9,
+    "code": "GA",
+    "name": "BNC SEKURITAS INDONESIA",
+    "type": ["Perantara Pedagang Efek"]
+  },
+  {
+    "no": 10,
+    "code": "NI",
+    "name": "BNI SEKURITAS",
+    "type": ["Penjamin Emisi Efek", "Perantara Pedagang Efek"]
+  },
+  {
+    "no": 11,
+    "code": "OD",
+    "name": "BRI DANAREKSA SEKURITAS",
+    "type": ["Penjamin Emisi Efek", "Perantara Pedagang Efek"]
+  },
+  {
+    "no": 12,
+    "code": "RF",
+    "name": "BUANA CAPITAL SEKURITAS",
+    "type": ["Penjamin Emisi Efek", "Perantara Pedagang Efek"]
+  },
+  {
+    "no": 13,
+    "code": "ZR",
+    "name": "BUMIPUTERA SEKURITAS",
+    "type": ["Penjamin Emisi Efek", "Perantara Pedagang Efek"]
+  },
+  {
+    "no": 14,
+    "code": "YU",
+    "name": "CGS INTERNATIONAL SEKURITAS INDONESIA",
+    "type": ["Penjamin Emisi Efek", "Perantara Pedagang Efek"]
+  },
+  {
+    "no": 15,
+    "code": "KI",
+    "name": "CIPTADANA SEKURITAS ASIA",
+    "type": ["Penjamin Emisi Efek", "Perantara Pedagang Efek"]
+  },
+  {
+    "no": 16,
+    "code": "KZ",
+    "name": "CLSA SEKURITAS INDONESIA",
+    "type": ["Penjamin Emisi Efek", "Perantara Pedagang Efek"]
+  },
+  {
+    "no": 17,
+    "code": "PF",
+    "name": "DANASAKTI SEKURITAS INDONESIA",
+    "type": ["Penjamin Emisi Efek", "Perantara Pedagang Efek"]
+  },
+  {
+    "no": 18,
+    "code": "II",
+    "name": "DANATAMA MAKMUR SEKURITAS",
+    "type": [
+      "Manajer Investasi",
+      "Penjamin Emisi Efek",
+      "Perantara Pedagang Efek"
+    ]
+  },
+  {
+    "no": 19,
+    "code": "DP",
+    "name": "DBS VICKERS SEKURITAS INDONESIA",
+    "type": ["Penjamin Emisi Efek", "Perantara Pedagang Efek"]
+  },
+  {
+    "no": 20,
+    "code": "TS",
+    "name": "DWIDANA SAKTI SEKURITAS",
+    "type": ["Perantara Pedagang Efek"]
+  },
+  {
+    "no": 21,
+    "code": "ES",
+    "name": "EKOKAPITAL SEKURITAS",
+    "type": ["Perantara Pedagang Efek"]
+  },
+  {
+    "no": 22,
+    "code": "SA",
+    "name": "ELIT SUKSES SEKURITAS",
+    "type": ["Penjamin Emisi Efek", "Perantara Pedagang Efek"]
+  },
+  {
+    "no": 23,
+    "code": "BS",
+    "name": "EQUITY SEKURITAS INDONESIA",
+    "type": ["Penjamin Emisi Efek", "Perantara Pedagang Efek"]
+  },
+  {
+    "no": 24,
+    "code": "AO",
+    "name": "ERDIKHA ELIT SEKURITAS",
+    "type": ["Penjamin Emisi Efek", "Perantara Pedagang Efek"]
+  },
+  {
+    "no": 25,
+    "code": "EL",
+    "name": "EVERGREEN SEKURITAS INDONESIA",
+    "type": ["Penjamin Emisi Efek", "Perantara Pedagang Efek"]
+  },
+  {
+    "no": 26,
+    "code": "PC",
+    "name": "FAC SEKURITAS INDONESIA",
+    "type": ["Perantara Pedagang Efek"]
+  },
+  {
+    "no": 27,
+    "code": "FO",
+    "name": "FORTE GLOBAL SEKURITAS",
+    "type": ["Perantara Pedagang Efek"]
+  },
+  {
+    "no": 28,
+    "code": "AF",
+    "name": "HARITA KENCANA SEKURITAS",
+    "type": ["Perantara Pedagang Efek"]
+  },
+  {
+    "no": 29,
+    "code": "HP",
+    "name": "HENAN PUTIHRAI SEKURITAS",
+    "type": ["Penjamin Emisi Efek", "Perantara Pedagang Efek"]
+  },
+  {
+    "no": 30,
+    "code": "RB",
+    "name": "INA SEKURITAS INDONESIA",
+    "type": ["Penjamin Emisi Efek", "Perantara Pedagang Efek"]
+  }
+]
